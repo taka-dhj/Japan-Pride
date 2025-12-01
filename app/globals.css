@@ -1,0 +1,100 @@
+@import "tailwindcss";
+
+:root {
+  /* Zen Retreat Palette */
+  --background: #F9F9F9;
+  /* Off-white */
+  --foreground: #333333;
+  /* Charcoal */
+  --card: #FFFFFF;
+  --card-foreground: #333333;
+  --popover: #FFFFFF;
+  --popover-foreground: #333333;
+  --primary: #4A4A4A;
+  /* Darker Charcoal for primary actions */
+  --primary-foreground: #FFFFFF;
+  --secondary: #E5E5E5;
+  /* Light Gray */
+  --secondary-foreground: #333333;
+  --muted: #F0F0F0;
+  --muted-foreground: #666666;
+  --accent: #F5F5F5;
+  --accent-foreground: #333333;
+  --destructive: #EF4444;
+  --destructive-foreground: #FFFFFF;
+  --border: #E5E5E5;
+  --input: #E5E5E5;
+  --ring: #333333;
+
+  --radius: 0.5rem;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-cormorant);
+  --font-pinyon: var(--font-pinyon);
+  --font-zen-old-mincho: var(--font-zen-old-mincho);
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 英語表示の場合：Cormorant Garamond（高級感のあるフォント）をすべてのテキストに適用 */
+[data-lang="en"] {
+  font-family: var(--font-cormorant), serif;
+}
+
+[data-lang="en"] .font-serif {
+  font-family: var(--font-cormorant), serif;
+}
+
+/* 日本語表示の場合：Zen Old Minchoをすべてのテキストに適用 */
+[data-lang="jp"] {
+  font-family: var(--font-zen-old-mincho), serif;
+}
+
+[data-lang="jp"] .font-serif {
+  font-family: var(--font-zen-old-mincho), serif;
+}
+
+/* 特定のフォントクラスは優先される */
+.font-pinyon {
+  font-family: var(--font-pinyon), cursive !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+}
