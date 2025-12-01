@@ -239,7 +239,7 @@ export const content = {
             title: "Celebrate Your Love in Japan",
             description: "Beyond legal boundaries, make your commitment official in your hearts. We offer traditional Japanese wedding ceremonies and photo shoots in partnership with Hiramatsu.",
             cta: "Plan Your Ceremony",
-            image: "/photo/wedding/IMG_3069.JPG",
+            image: "/photo/wedding/IMG_3164.JPG",
         },
         blog: {
             subtitle: "Journal",
@@ -523,7 +523,7 @@ export const content = {
             title: "日本で愛を誓う",
             description: "法的な枠組みを超えて、二人の絆を形に。ひらまつと提携し、伝統的な挙式やフォトウェディングをプロデュースします。",
             cta: "セレモニーを計画する",
-            image: "/photo/wedding/IMG_3069.JPG",
+            image: "/photo/wedding/IMG_3164.JPG",
         },
         blog: {
             subtitle: "旅の記録",
