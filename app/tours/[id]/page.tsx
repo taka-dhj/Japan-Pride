@@ -12,6 +12,9 @@ import Link from "next/link";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 
+// Cloudflare Pages用のEdge Runtime設定
+export const runtime = 'edge';
+
 export default function TourDetailPage() {
     const params = useParams();
     const { language } = useLanguage();
