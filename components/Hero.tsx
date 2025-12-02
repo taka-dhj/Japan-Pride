@@ -14,14 +14,16 @@ export const Hero = () => {
         <section id="hero" className="relative h-screen w-full overflow-hidden bg-black">
             {/* Background Image */}
             <div
-                className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-                style={{ backgroundImage: `url('/photo/t-a/IMG_6592.JPG')` }}
+                className="absolute inset-0 hero-bg-mobile"
+                style={{ 
+                    backgroundImage: `url('/photo/t-a/IMG_6592.JPG')`
+                }}
             >
                 <div className="absolute inset-0 bg-black/40" /> {/* Overlay */}
             </div>
 
             {/* Content */}
-            <div className="relative z-10 h-full flex flex-col justify-center items-center text-center px-4">
+            <div className="relative z-10 h-full flex flex-col justify-center items-center text-center px-4 pt-16 md:pt-24">
                 <motion.h1
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}

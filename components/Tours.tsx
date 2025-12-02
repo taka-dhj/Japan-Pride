@@ -32,8 +32,9 @@ export const Tours = () => {
                         >
                             <motion.div
                                 initial={{ opacity: 0, y: 20 }}
+                                animate={{ opacity: 1, y: 0 }}
                                 whileInView={{ opacity: 1, y: 0 }}
-                                viewport={{ once: true }}
+                                viewport={{ once: true, margin: "-50px" }}
                                 transition={{ duration: 0.5, delay: index * 0.1 }}
                                 className="group bg-white rounded-sm overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 border border-border/50 h-full flex flex-col cursor-pointer"
                             >
@@ -45,9 +46,6 @@ export const Tours = () => {
                                         fill
                                         className="object-cover group-hover:scale-110 transition-transform duration-700"
                                     />
-                                    <div className="absolute top-4 right-4 bg-white/90 backdrop-blur-sm px-3 py-1 text-xs font-medium text-foreground uppercase tracking-wider rounded-full">
-                                        {tour.price}
-                                    </div>
                                 </div>
 
                                 {/* Content */}

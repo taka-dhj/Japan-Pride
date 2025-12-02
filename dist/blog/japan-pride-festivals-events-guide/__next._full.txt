@@ -1,0 +1,92 @@
+1:"$Sreact.fragment"
+2:I[96923,["/_next/static/chunks/16323b9475b3af72.js"],"Providers"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+6:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+d:I[68027,[],"default"]
+:HL["/_next/static/chunks/7ea2a6d55266a9e2.css","style"]
+:HL["/_next/static/media/01e4147cff8141ee-s.p.7787e134.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db3f01ae0719bbb0-s.p.b64eeed7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"tcyUwSWyg0er57z5N0f0J","c":["","blog","japan-pride-festivals-events-guide"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","japan-pride-festivals-events-guide","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/7ea2a6d55266a9e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/16323b9475b3af72.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"cormorant_garamond_ec0b03bc-module__6ZvGZG__variable inter_fe8b9d92-module__LINzvG__variable pinyon_script_bd953a0d-module__8kg6xa__variable antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/991a4b47d86dd688.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/15e97b84007b5ea5.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/27b3135442311e67.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+e:I[21752,["/_next/static/chunks/16323b9475b3af72.js","/_next/static/chunks/991a4b47d86dd688.js","/_next/static/chunks/15e97b84007b5ea5.js","/_next/static/chunks/27b3135442311e67.js"],"BlogDetailClient"]
+f:T1b4f,Japan's LGBTQ+ community is vibrant and active, with numerous Pride festivals and events held throughout the year across the country. For LGBTQ+ travelers visiting Japan, these events offer wonderful opportunities to connect with the local community, celebrate diversity, and experience Japan's growing LGBTQ+ culture. Having attended and participated in many of these events, I'm excited to share a comprehensive guide to Japan's Pride festivals and LGBTQ+ events.
+
+Tokyo Rainbow Pride is Japan's largest Pride event, typically held in late April or early May in Yoyogi Park. This multi-day festival attracts tens of thousands of participants and includes a parade, live performances, food vendors, and numerous booths from LGBTQ+ organizations and allies. The event is welcoming to all, creating a vibrant, inclusive atmosphere that celebrates diversity and promotes LGBTQ+ visibility in Japan.
+
+The Tokyo Rainbow Pride parade is a highlight of the event, featuring colorful floats, marching groups, and participants from all walks of life. The parade route winds through the streets of Shibuya and Harajuku, areas known for their youth culture and fashion, creating a festive atmosphere that draws both participants and spectators. The event is well-organized and safe, with police presence and security measures ensuring a positive experience for all attendees.
+
+Beyond the parade, Tokyo Rainbow Pride features a festival area in Yoyogi Park with numerous activities and attractions. Food vendors offer a variety of options, from traditional Japanese street food to international cuisine. Performance stages feature live music, drag shows, and cultural performances. Information booths provide resources about LGBTQ+ organizations, health services, and community resources.
+
+Osaka Rainbow Pride is another major event, typically held in October. While smaller than Tokyo's event, Osaka Rainbow Pride has a strong local character and offers a welcoming, community-focused atmosphere. The event includes a parade through the city center and a festival area with food, performances, and community booths. Osaka's friendly, down-to-earth culture is reflected in the event's atmosphere, making it particularly welcoming for first-time Pride attendees.
+
+Kobe Rainbow Pride, held in the port city of Kobe, offers a more intimate Pride experience. The event typically takes place in spring and includes a parade and festival activities. Kobe's international character and welcoming atmosphere make this event particularly accessible for international LGBTQ+ travelers.
+
+Sapporo Rainbow Pride in Hokkaido is Japan's northernmost Pride event. Held in summer, the event takes advantage of Hokkaido's beautiful weather and natural setting. The event includes a parade and festival activities, offering a unique Pride experience in a beautiful natural setting.
+
+Throughout the year, various cities host smaller Pride events and LGBTQ+ gatherings. These events range from community picnics to film festivals to cultural celebrations. Many of these events are welcoming to international visitors and provide opportunities to connect with local LGBTQ+ communities in a relaxed, informal setting.
+
+In addition to Pride festivals, Japan hosts numerous LGBTQ+ cultural events throughout the year. Film festivals featuring LGBTQ+ themes are held in major cities, offering opportunities to see international and Japanese LGBTQ+ cinema. These events are welcoming to all and provide cultural experiences that go beyond typical tourist activities.
+
+LGBTQ+ art exhibitions and cultural events are also common in major cities. These events showcase LGBTQ+ artists and creators, providing opportunities to experience LGBTQ+ culture and creativity. Many of these events are welcoming to international visitors and offer English-language information and support.
+
+For those interested in nightlife events, many LGBTQ+ bars and clubs host special events throughout the year. These range from themed parties to drag shows to community gatherings. These events offer opportunities to experience Japan's LGBTQ+ nightlife culture while connecting with the local community.
+
+When planning to attend Pride events in Japan, there are several things to keep in mind. First, check the dates and locations in advance, as events can change from year to year. Many events have websites and social media pages with up-to-date information. Second, consider the weather and dress appropriately - Japanese summers can be hot and humid, while spring and autumn events may require layers.
+
+For international travelers, many Pride events have English-language information and support. However, it's always helpful to learn a few basic Japanese phrases, especially greetings and expressions of support. The LGBTQ+ community in Japan is generally welcoming to international visitors, and making an effort to connect, even with limited Japanese, is appreciated.
+
+One thing that makes Japan's Pride events special is their focus on community and inclusion. While these events celebrate LGBTQ+ identity, they also welcome allies and create spaces where everyone can come together to support equality and diversity. This inclusive atmosphere makes Japan's Pride events particularly welcoming for international visitors.
+
+For couples attending Pride events together, these festivals offer wonderful opportunities to celebrate your relationship in a supportive, welcoming environment. Many events have special areas or activities for couples, and the overall atmosphere is one of celebration and acceptance.
+
+When attending Pride events, it's important to be respectful of the local culture and community. While these events are celebrations, they're also important community gatherings. Following event guidelines, being respectful of other attendees, and supporting the event's mission helps ensure a positive experience for everyone.
+
+For those interested in volunteering or getting more involved, many Pride events welcome volunteers. This can be a great way to connect with the local LGBTQ+ community and contribute to these important events. Information about volunteering is typically available on event websites or through LGBTQ+ community organizations.
+
+Remember that attending Pride events in Japan is about more than just celebration - it's about supporting the LGBTQ+ community, promoting visibility, and connecting with others who share your values. These events play an important role in advancing LGBTQ+ rights and acceptance in Japan, and your participation helps support these efforts.
+
+The key to enjoying Japan's Pride festivals and events is to be open, respectful, and engaged. These events offer wonderful opportunities to experience Japan's LGBTQ+ culture, connect with the local community, and celebrate diversity in a supportive, welcoming environment. Whether you're attending your first Pride event or are a seasoned Pride-goer, Japan's LGBTQ+ events offer unique experiences that you'll remember for years to come.10:T242b,日本のLGBTQ+コミュニティは活気があり活動的で、一年を通じて全国で多数のプライドフェスティバルとイベントが開催されています。日本を訪れるLGBTQ+旅行者にとって、これらのイベントは地元コミュニティとつながり、多様性を祝い、日本の成長しているLGBTQ+文化を体験する素晴らしい機会を提供します。これらのイベントの多くに参加し、参加してきた後、日本のプライドフェスティバルとLGBTQ+イベントの包括的なガイドを共有できることを嬉しく思います。
+
+東京レインボープライドは日本最大のプライドイベントで、通常4月下旬または5月上旬に代々木公園で開催されます。この複数日のフェスティバルは数万人の参加者を引き付け、パレード、ライブパフォーマンス、フードベンダー、LGBTQ+組織とアライからの多数のブースが含まれます。イベントはすべての人を歓迎し、多様性を祝い、日本でのLGBTQ+の可視性を促進する活気ある包括的な雰囲気を作り出します。
+
+東京レインボープライドパレードはイベントのハイライトで、カラフルなフロート、行進グループ、あらゆる分野からの参加者を特徴とします。パレードルートは、若者文化とファッションで知られる渋谷と原宿の通りを進み、参加者と観客の両方を引き付ける祝祭的な雰囲気を作り出します。イベントはよく組織され、安全で、警察の存在と安全対策により、すべての参加者にとって前向きな体験を確保します。
+
+パレードを超えて、東京レインボープライドは、多数の活動とアトラクションを持つ代々木公園のフェスティバルエリアを特徴とします。フードベンダーは、伝統的な日本のストリートフードから国際的な料理まで、さまざまなオプションを提供します。パフォーマンスステージには、ライブミュージック、ドラァグショー、文化的パフォーマンスが特徴です。情報ブースは、LGBTQ+組織、健康サービス、コミュニティリソースに関するリソースを提供します。
+
+大阪レインボープライドは、通常10月に開催されるもう一つの主要なイベントです。東京のイベントよりも小さいですが、大阪レインボープライドは強い地元の特徴を持ち、歓迎的でコミュニティ重視の雰囲気を提供します。イベントには、市街地を通るパレードと、食べ物、パフォーマンス、コミュニティブースを持つフェスティバルエリアが含まれます。大阪の友好的で現実的な文化は、イベントの雰囲気に反映され、初めてのプライド参加者にとって特に歓迎的です。
+
+港町神戸で開催される神戸レインボープライドは、より親密なプライド体験を提供します。イベントは通常春に開催され、パレードとフェスティバル活動が含まれます。神戸の国際的な特徴と歓迎的な雰囲気は、このイベントを国際的なLGBTQ+旅行者にとって特にアクセスしやすくします。
+
+北海道の札幌レインボープライドは、日本最北のプライドイベントです。夏に開催され、イベントは北海道の美しい天候と自然の設定を活用します。イベントにはパレードとフェスティバル活動が含まれ、美しい自然の設定でユニークなプライド体験を提供します。
+
+一年を通じて、さまざまな都市が小さなプライドイベントとLGBTQ+の集まりを開催します。これらのイベントは、コミュニティピクニックから映画祭、文化的祝賀までさまざまです。これらのイベントの多くは国際的な訪問者を歓迎し、リラックスした非公式な環境で地元のLGBTQ+コミュニティとつながる機会を提供します。
+
+プライドフェスティバルに加えて、日本は一年を通じて多数のLGBTQ+文化的イベントを開催します。LGBTQ+テーマを特徴とする映画祭は主要都市で開催され、国際的および日本のLGBTQ+映画を見る機会を提供します。これらのイベントはすべての人を歓迎し、典型的な観光活動を超える文化的体験を提供します。
+
+LGBTQ+アート展覧会と文化的イベントも主要都市で一般的です。これらのイベントはLGBTQ+アーティストとクリエイターを紹介し、LGBTQ+文化と創造性を体験する機会を提供します。これらのイベントの多くは国際的な訪問者を歓迎し、英語の情報とサポートを提供します。
+
+ナイトライフイベントに興味のある人にとって、多くのLGBTQ+バーやクラブが一年を通じて特別なイベントを開催します。これらは、テーマパーティーからドラァグショー、コミュニティの集まりまでさまざまです。これらのイベントは、地元コミュニティとつながりながら日本のLGBTQ+ナイトライフ文化を体験する機会を提供します。
+
+日本でプライドイベントに参加することを計画する際は、いくつかのことを覚えておく必要があります。まず、イベントは年によって変わる可能性があるため、事前に日付と場所を確認してください。多くのイベントには、最新情報を持つウェブサイトとソーシャルメディアページがあります。第二に、天候を考慮し、適切に服装してください - 日本の夏は暑く湿度が高い可能性があり、春と秋のイベントは重ね着が必要な場合があります。
+
+国際的な旅行者にとって、多くのプライドイベントには英語の情報とサポートがあります。しかし、特に挨拶とサポートの表現など、いくつかの基本的な日本語のフレーズを学ぶことは常に役立ちます。日本のLGBTQ+コミュニティは一般的に国際的な訪問者を歓迎し、限られた日本語でもつながる努力をすることは評価されます。
+
+日本のプライドイベントを特別にすることの一つは、コミュニティと包括性への焦点です。これらのイベントはLGBTQ+アイデンティティを祝いますが、アライも歓迎し、誰もが平等と多様性をサポートするために集まることができる空間を作り出します。この包括的な雰囲気は、日本のプライドイベントを国際的な訪問者にとって特に歓迎的にします。
+
+一緒にプライドイベントに参加するカップルにとって、これらのフェスティバルは、支援的で歓迎的な環境で関係を祝う素晴らしい機会を提供します。多くのイベントにはカップル向けの特別なエリアや活動があり、全体的な雰囲気は祝賀と受容のものです。
+
+プライドイベントに参加する際は、地元の文化とコミュニティに敬意を払うことが重要です。これらのイベントは祝賀ですが、重要なコミュニティの集まりでもあります。イベントのガイドラインに従い、他の参加者に敬意を払い、イベントの使命をサポートすることで、すべての人にとって前向きな体験を確保するのに役立ちます。
+
+ボランティアやより深く関与することに興味のある人にとって、多くのプライドイベントはボランティアを歓迎します。これは地元のLGBTQ+コミュニティとつながり、これらの重要なイベントに貢献する素晴らしい方法になる可能性があります。ボランティアに関する情報は、通常、イベントのウェブサイトまたはLGBTQ+コミュニティ組織を通じて利用可能です。
+
+日本でプライドイベントに参加することは、単なる祝賀以上のものであることを覚えておいてください - それはLGBTQ+コミュニティをサポートし、可視性を促進し、あなたの価値観を共有する他の人々とつながることです。これらのイベントは、日本でのLGBTQ+の権利と受容を前進させる上で重要な役割を果たし、あなたの参加はこれらの努力をサポートするのに役立ちます。
+
+日本のプライドフェスティバルとイベントを楽しむ鍵は、オープンで、敬意を持ち、従事することです。これらのイベントは、日本のLGBTQ+文化を体験し、地元コミュニティとつながり、支援的で歓迎的な環境で多様性を祝う素晴らしい機会を提供します。初めてのプライドイベントに参加する場合でも、経験豊富なプライド参加者でも、日本のLGBTQ+イベントは、何年も覚えているユニークな体験を提供します。5:["$","$Le",null,{"post":{"id":"10","slug":"japan-pride-festivals-events-guide","title":{"en":"Japan Pride Festivals and Events: A Complete Guide","jp":"日本のプライドフェスティバルとイベント：完全ガイド"},"excerpt":{"en":"Discover Japan's vibrant Pride festivals and LGBTQ+ events. From Tokyo Rainbow Pride to local celebrations, learn about the best events to attend.","jp":"日本の活気あるプライドフェスティバルとLGBTQ+イベントを発見してください。東京レインボープライドから地元の祝賀まで、参加するのに最適なイベントについて学びます。"},"content":{"en":"$f","jp":"$10"},"date":"2023-01-25","image":"/photo/t-a/IMG_6592.JPG","tags":["events","community","lgbtq-friendly","culture"],"author":{"name":{"en":"Taka & Ady","jp":"Taka & Ady"},"role":{"en":"Co-Founders & Community Organizers","jp":"共同創業者 & コミュニティオーガナイザー"}}}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+c:[["$","title","0",{"children":"Japan Pride Festivals and Events: A Complete Guide | Japan Pride Journeys"}],["$","meta","1",{"name":"description","content":"Discover Japan's vibrant Pride festivals and LGBTQ+ events. From Tokyo Rainbow Pride to local celebrations, learn about the best events to attend."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]]
+8:null

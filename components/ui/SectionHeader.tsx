@@ -50,8 +50,9 @@ export const SectionHeader: React.FC<SectionHeaderProps> = ({
                 {/* Minimal Dots */}
                 <motion.div
                     initial={{ opacity: 0, scale: 0.8 }}
+                    animate={{ opacity: 1, scale: 1 }}
                     whileInView={{ opacity: 1, scale: 1 }}
-                    viewport={{ once: true }}
+                    viewport={{ once: true, margin: "-50px" }}
                     transition={{ duration: 0.6 }}
                     className={cn(
                         "flex gap-1.5 mb-4",
@@ -62,8 +63,9 @@ export const SectionHeader: React.FC<SectionHeaderProps> = ({
                         <motion.div
                             key={index}
                             initial={{ opacity: 0, scale: 0 }}
+                            animate={{ opacity: 1, scale: 1 }}
                             whileInView={{ opacity: 1, scale: 1 }}
-                            viewport={{ once: true }}
+                            viewport={{ once: true, margin: "-50px" }}
                             transition={{ duration: 0.4, delay: index * 0.05 }}
                             className="w-2 h-2 rounded-full"
                             style={{ backgroundColor: color }}
@@ -75,8 +77,9 @@ export const SectionHeader: React.FC<SectionHeaderProps> = ({
                 {subtitle && (
                     <motion.span
                         initial={{ opacity: 0, y: 10 }}
+                        animate={{ opacity: 1, y: 0 }}
                         whileInView={{ opacity: 1, y: 0 }}
-                        viewport={{ once: true }}
+                        viewport={{ once: true, margin: "-50px" }}
                         transition={{ duration: 0.6 }}
                         className="block text-sm md:text-base font-medium text-primary/70 mb-3 uppercase tracking-wider"
                     >
@@ -87,8 +90,9 @@ export const SectionHeader: React.FC<SectionHeaderProps> = ({
                 {/* Title - normal color, no rainbow */}
                 <motion.h2
                     initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
                     whileInView={{ opacity: 1, y: 0 }}
-                    viewport={{ once: true }}
+                    viewport={{ once: true, margin: "-50px" }}
                     transition={{ duration: 0.8, delay: 0.1 }}
                     className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold text-foreground uppercase tracking-wider mb-4"
                 >
@@ -98,8 +102,9 @@ export const SectionHeader: React.FC<SectionHeaderProps> = ({
                 {/* Simple elegant line */}
                 <motion.div
                     initial={{ scaleX: 0, opacity: 0 }}
+                    animate={{ scaleX: 1, opacity: 1 }}
                     whileInView={{ scaleX: 1, opacity: 1 }}
-                    viewport={{ once: true }}
+                    viewport={{ once: true, margin: "-50px" }}
                     transition={{ duration: 0.8, delay: 0.3 }}
                     className={cn(
                         "h-[1px] bg-gradient-to-r from-primary/20 via-primary/40 to-primary/20 mb-6",
@@ -112,8 +117,9 @@ export const SectionHeader: React.FC<SectionHeaderProps> = ({
                 {description && (
                     <motion.p
                         initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
                         whileInView={{ opacity: 1, y: 0 }}
-                        viewport={{ once: true }}
+                        viewport={{ once: true, margin: "-50px" }}
                         transition={{ duration: 0.8, delay: 0.4 }}
                         className={cn(
                             "text-muted-foreground leading-relaxed max-w-2xl font-light",

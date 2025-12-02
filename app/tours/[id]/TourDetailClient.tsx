@@ -4,7 +4,7 @@ import React from "react";
 import { useLanguage } from "@/context/LanguageContext";
 import { content } from "@/lib/data";
 import Image from "next/image";
-import { ArrowLeft, Clock, Calendar, MapPin } from "lucide-react";
+import { ArrowLeft, Clock, Calendar, MapPin, Mail } from "lucide-react";
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
@@ -18,6 +18,10 @@ interface TourDetailClientProps {
 export function TourDetailClient({ tourId }: TourDetailClientProps) {
     const { language } = useLanguage();
     const t = content[language].tours;
+
+    // デバッグ用
+    console.log('TourDetailClient - tourId:', tourId);
+    console.log('TourDetailClient - available tours:', t.items.map(item => item.id));
 
     const tour = t.items.find((item) => item.id === tourId);
 
@@ -44,24 +48,27 @@ export function TourDetailClient({ tourId }: TourDetailClientProps) {
     const galleryImages = getLocalGalleryImages(tour.id);
 
     return (
-        <>
+        <div className="relative">
             <Header />
-            <main className="min-h-screen bg-white">
+            <main className="bg-white pt-16 md:pt-20">
             {/* Hero Section with Large Image */}
-            <section className="relative h-[70vh] md:h-[80vh] overflow-hidden">
-                <Image
-                    src={tour.image}
-                    alt={tour.title}
-                    fill
-                    className="object-cover"
-                    priority
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <section className="relative overflow-hidden" style={{ height: '60vh', minHeight: '400px' }}>
+                <div className="relative w-full h-full">
+                    <Image
+                        src={tour.image}
+                        alt={tour.title}
+                        fill
+                        className="object-cover"
+                        priority
+                        sizes="100vw"
+                    />
+                </div>
+                <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent z-0" />
                 
                 {/* Back Button */}
                 <Link
                     href="/#tours"
-                    className="absolute top-6 left-6 z-10 flex items-center gap-2 px-4 py-2 bg-white/90 backdrop-blur-sm rounded-sm hover:bg-white transition-colors"
+                    className="absolute top-6 left-6 z-20 flex items-center gap-2 px-4 py-2 bg-white rounded-sm hover:bg-gray-50 transition-colors shadow-sm"
                 >
                     <ArrowLeft className="w-4 h-4" />
                     <span className="text-sm font-medium">{language === "en" ? "Back to Tours" : "ツアー一覧に戻る"}</span>
@@ -75,8 +82,6 @@ export function TourDetailClient({ tourId }: TourDetailClientProps) {
                                 <Clock className="w-5 h-5" />
                                 <span className="text-lg font-medium">{tour.duration}</span>
                             </div>
-                            <span className="text-white/60">•</span>
-                            <span className="text-lg font-medium">{tour.price}</span>
                         </div>
                         <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold mb-4">
                             {tour.title}
@@ -88,23 +93,31 @@ export function TourDetailClient({ tourId }: TourDetailClientProps) {
                 </div>
             </section>
 
-            {/* Overview Section */}
-            <section className="py-16 md:py-24 bg-white">
+            {/* Sample Notice Section */}
+            <section className="py-6 bg-secondary/30 border-b border-border/30">
                 <div className="container mx-auto px-6">
                     <div className="max-w-4xl mx-auto">
-                        <motion.div
-                            initial={{ opacity: 0, y: 20 }}
-                            whileInView={{ opacity: 1, y: 0 }}
-                            viewport={{ once: true }}
-                            transition={{ duration: 0.6 }}
-                        >
+                        <p className="text-center text-muted-foreground text-sm md:text-base">
+                            {language === "en" 
+                                ? "※ This is a sample tour. Please contact us for detailed information and customization options."
+                                : "※ こちらはサンプルツアーです。詳細情報やカスタマイズについては、お気軽にお問い合わせください。"}
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            {/* Overview Section */}
+            <section className="pb-16 md:pb-24 bg-white">
+                <div className="container mx-auto px-6">
+                    <div className="max-w-4xl mx-auto">
+                        <div>
                             <h2 className={cn("text-3xl md:text-4xl font-serif mb-6 text-foreground", language === "en" ? "font-bold" : "font-semibold")}>
                                 {language === "en" ? "Overview" : "概要"}
                             </h2>
-                            <p className="text-lg text-muted-foreground leading-relaxed">
+                            <p className="text-lg text-muted-foreground leading-relaxed mb-8">
                                 {tour.fullDescription}
                             </p>
-                        </motion.div>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -257,9 +270,49 @@ export function TourDetailClient({ tourId }: TourDetailClientProps) {
                 </section>
             )}
 
+            {/* Inquiry Section */}
+            <section className="py-16 md:py-24 bg-white border-t border-border/30">
+                <div className="container mx-auto px-6">
+                    <div className="max-w-4xl mx-auto">
+                        <motion.div
+                            initial={{ opacity: 0, y: 20 }}
+                            whileInView={{ opacity: 1, y: 0 }}
+                            viewport={{ once: true }}
+                            transition={{ duration: 0.6 }}
+                        >
+                            <h2 className={cn("text-3xl md:text-4xl font-serif mb-4 text-foreground", language === "en" ? "font-bold" : "font-semibold")}>
+                                {language === "en" ? "Inquiry" : "お問い合わせ"}
+                            </h2>
+                            <p className="text-muted-foreground text-lg mb-8 leading-relaxed">
+                                {language === "en"
+                                    ? "For more information about this tour or to make a reservation, please contact us. We'll be happy to customize the itinerary to match your preferences and needs."
+                                    : "このツアーについての詳細情報やご予約については、お気軽にお問い合わせください。ご希望やニーズに合わせて旅程をカスタマイズいたします。"}
+                            </p>
+                            <div className="flex flex-col sm:flex-row gap-4">
+                                <a
+                                    href={`mailto:info@japanpridejourneys.com?subject=${encodeURIComponent(
+                                        language === "en"
+                                            ? `Inquiry about ${tour.title}`
+                                            : `${tour.title}についてのお問い合わせ`
+                                    )}&body=${encodeURIComponent(
+                                        language === "en"
+                                            ? `I'm interested in learning more about the ${tour.title} tour.\n\nDuration: ${tour.duration}\n\nPlease provide more information.`
+                                            : `${tour.title}について詳しく知りたいです。\n\n期間: ${tour.duration}\n\n詳細情報をお願いします。`
+                                    )}`}
+                                    className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-white rounded-sm hover:bg-primary/90 transition-colors font-medium text-lg"
+                                >
+                                    <Mail className="w-5 h-5" />
+                                    {language === "en" ? "Contact Us" : "お問い合わせ"}
+                                </a>
+                            </div>
+                        </motion.div>
+                    </div>
+                </div>
+            </section>
+
             </main>
             <Footer />
-        </>
+        </div>
     );
 }
 
@@ -315,3 +368,5 @@ function getLocalGalleryImages(tourId: string): string[] {
 
     return selectedImages;
 }
+
+

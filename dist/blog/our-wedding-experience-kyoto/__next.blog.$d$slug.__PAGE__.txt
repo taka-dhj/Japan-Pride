@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+2:I[21752,["/_next/static/chunks/16323b9475b3af72.js","/_next/static/chunks/991a4b47d86dd688.js","/_next/static/chunks/15e97b84007b5ea5.js","/_next/static/chunks/27b3135442311e67.js"],"BlogDetailClient"]
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T191c,When we decided to get married, there was never any doubt in our minds that Kyoto would be the perfect setting for our special day. As two people deeply connected to Japanese culture and each other, we wanted a wedding that would honor both tradition and our unique love story. What followed was an experience that exceeded all our expectations and created memories we'll cherish forever.
+
+The planning process began six months before our wedding date. We knew we wanted something that felt authentic yet personal, traditional yet modern. Kyoto, with its thousands of temples, beautiful gardens, and rich cultural heritage, offered the perfect backdrop. We worked closely with local wedding planners who specialized in LGBTQ+ ceremonies, ensuring that every detail would reflect our values and create a safe, welcoming atmosphere for all our guests.
+
+One of the first decisions we made was to incorporate both Shinto and modern elements into our ceremony. We chose a beautiful shrine in the Arashiyama district, surrounded by bamboo groves and traditional Japanese gardens. The setting was breathtaking - ancient stone paths, carefully maintained moss gardens, and the gentle sound of water features created an atmosphere of peace and tranquility that perfectly matched the significance of the day.
+
+The ceremony itself was a beautiful blend of traditional Japanese wedding customs and personal touches that reflected our relationship. We wore traditional wedding kimonos, which were carefully selected to complement each other while honoring the rich history of Japanese textile art. The intricate patterns and colors told a story - mine featured cranes, symbolizing longevity and happiness, while my partner's featured cherry blossoms, representing the beauty and transience of life's precious moments.
+
+Our ceremony was conducted by a Shinto priest who had experience with LGBTQ+ ceremonies and was genuinely supportive of our union. The traditional rituals, including the san-san-kudo (three-three-nine times) sake-sharing ceremony, took on special meaning as we performed them together. Each step felt significant, connecting us not just to each other, but to the generations of couples who had come before us in this sacred space.
+
+Following the ceremony, we held a reception at a traditional ryokan that had been converted into a modern event space while maintaining its historic charm. The venue featured tatami rooms, sliding paper doors, and a beautiful garden view that changed with the seasons. Our guests, who had traveled from around the world, were able to experience authentic Japanese hospitality while celebrating with us.
+
+The reception menu was a carefully curated selection of kaiseki cuisine, Japan's most refined culinary tradition. Each course was not just food, but a work of art, beautifully presented and thoughtfully prepared. Our guests were particularly impressed by the seasonal ingredients and the way each dish told a story about Kyoto's culinary heritage. The meal was accompanied by premium sake, carefully selected to complement each course.
+
+One of the most memorable aspects of our wedding was the photography session. We worked with a photographer who specialized in LGBTQ+ weddings and had a deep understanding of both traditional Japanese aesthetics and modern wedding photography. The result was a stunning collection of images that captured not just the events of the day, but the emotions, the atmosphere, and the love that filled every moment.
+
+The photoshoot took us to several iconic Kyoto locations - the Arashiyama Bamboo Grove, Fushimi Inari Shrine with its thousands of torii gates, and the Philosopher's Path during cherry blossom season. Each location provided a unique backdrop that reflected different aspects of our relationship and our connection to Japan. The photographer's skill in capturing candid moments alongside traditional poses created a narrative that we'll treasure forever.
+
+What made our wedding truly special was the support we received from the local community. From the shrine staff to the ryokan owners, from the photographers to the caterers, everyone we worked with was not just professional, but genuinely supportive of our union. This acceptance and celebration of our love made the day even more meaningful.
+
+For couples considering a wedding in Japan, we have several recommendations based on our experience. First, work with planners and vendors who have experience with LGBTQ+ ceremonies. While Japan is making progress in LGBTQ+ rights, it's important to work with people who understand and support your vision. We found that many vendors were not just willing, but enthusiastic about working with us once they understood what we were looking for.
+
+Second, embrace the cultural elements while making them your own. Japanese wedding traditions are beautiful and meaningful, but they can be adapted to reflect your unique relationship. Don't be afraid to mix traditional and modern elements - our ceremony was a perfect example of how these can coexist harmoniously.
+
+Third, consider the timing carefully. We chose spring for our wedding, which allowed us to incorporate cherry blossoms into our celebration. However, each season in Japan offers its own unique beauty - autumn leaves, winter snowscapes, summer festivals. Choose a time that resonates with you and your partner.
+
+Finally, remember that a wedding is about celebrating love, regardless of the setting or traditions. While we were fortunate to have a beautiful traditional ceremony, what truly mattered was the commitment we made to each other and the love we shared with our friends and family.
+
+Our wedding in Kyoto was more than just a ceremony - it was a celebration of love, culture, and community. It brought together people from different countries and backgrounds, all united in support of our union. The experience taught us that love transcends boundaries, and that with the right support and planning, you can create a wedding that honors both tradition and your unique love story.
+
+Looking back on that day, we're filled with gratitude - for the beautiful setting, for the supportive community, for our amazing guests, and most of all, for each other. Our wedding in Kyoto wasn't just a day; it was the beginning of a new chapter in our lives, one that we'll continue to write together with love, respect, and a deep appreciation for the culture that brought us together.4:T1e14,結婚を決めたとき、京都が私たちの特別な日に完璧な場所になることは、私たちの心の中に疑いの余地がありませんでした。日本の文化とお互いに深くつながっている2人として、伝統と私たちのユニークな愛の物語の両方を尊重する結婚式を望んでいました。その結果、すべての期待を超え、永遠に大切にする思い出を作る体験となりました。
+
+計画プロセスは結婚式の6ヶ月前に始まりました。本格的でありながら個人的で、伝統的でありながら現代的な何かを望んでいました。何千もの寺院、美しい庭園、豊かな文化的遺産を持つ京都は、完璧な背景を提供しました。LGBTQ+式に特化した地元のウェディングプランナーと緊密に協力し、すべての詳細が私たちの価値観を反映し、すべてのゲストにとって安全で歓迎的な雰囲気を作ることを確保しました。
+
+最初の決定の一つは、神道と現代の要素の両方を式に組み込むことでした。嵐山地区の美しい神社を選び、竹林と伝統的な日本庭園に囲まれていました。設定は息を呑むほど美しく、古代の石の小道、慎重に維持された苔の庭、そして水の特徴の優しい音が、その日の重要性に完璧に一致する平和と静けさの雰囲気を作り出しました。
+
+式自体は、伝統的な日本の結婚式の習慣と、私たちの関係を反映した個人的なタッチの美しいブレンドでした。私たちは伝統的な結婚式の着物を着用し、日本の織物芸術の豊かな歴史を尊重しながら、お互いを補完するように慎重に選ばれました。複雑なパターンと色が物語を語りました - 私のものは長寿と幸福を象徴する鶴を特徴とし、パートナーのものは人生の貴重な瞬間の美しさと儚さを表す桜を特徴としていました。
+
+私たちの式は、LGBTQ+式の経験があり、私たちの結合を真に支持する神道の司祭によって行われました。三三九度の酒分けの儀式を含む伝統的な儀式は、私たちが一緒にそれらを実行したときに特別な意味を持ちました。各ステップは重要に感じられ、お互いだけでなく、この神聖な空間で私たちの前に来た何世代ものカップルに私たちを接続しました。
+
+式の後、私たちは伝統的な旅館でレセプションを開催しました。これは歴史的な魅力を維持しながら現代的なイベントスペースに変換されていました。会場には畳の部屋、引き戸、季節とともに変化する美しい庭の景色がありました。世界中から旅行してきたゲストは、私たちと一緒に祝いながら本格的な日本のおもてなしを体験できました。
+
+レセプションメニューは、日本で最も洗練された料理の伝統である懐石料理の慎重に選ばれたセレクションでした。各コースは単なる食べ物ではなく、美しく提示され、思慮深く準備された芸術作品でした。ゲストは特に季節の食材と各料理が京都の料理遺産について物語を語る方法に感銘を受けました。食事は各コースを補完するように慎重に選ばれたプレミアム日本酒と一緒に提供されました。
+
+私たちの結婚式の最も記憶に残る側面の一つは、写真撮影セッションでした。私たちはLGBTQ+結婚式に特化し、伝統的な日本の美学と現代の結婚式の写真撮影の両方を深く理解している写真家と協力しました。結果は、その日の出来事だけでなく、感情、雰囲気、そしてあらゆる瞬間を満たした愛を捉えた素晴らしい画像のコレクションでした。
+
+写真撮影は私たちをいくつかの象徴的な京都の場所に連れて行きました - 嵐山竹林、何千もの鳥居がある伏見稲荷大社、そして桜の季節の哲学の道。各場所は、私たちの関係の異なる側面と日本への私たちのつながりを反映したユニークな背景を提供しました。伝統的なポーズと一緒に率直な瞬間を捉える写真家のスキルは、私たちが永遠に大切にする物語を作り出しました。
+
+私たちの結婚式を本当に特別にしたのは、地元コミュニティから受け取ったサポートでした。神社のスタッフから旅館のオーナーまで、写真家からケータリング業者まで、私たちが協力したすべての人が、単にプロフェッショナルであるだけでなく、私たちの結合を真に支持していました。この受容と私たちの愛の祝賀は、その日をさらに意味のあるものにしました。
+
+日本での結婚式を検討しているカップルには、私たちの経験に基づいていくつかの推奨事項があります。まず、LGBTQ+式の経験があるプランナーやベンダーと協力してください。日本はLGBTQ+の権利において進歩していますが、あなたのビジョンを理解し、支持する人々と協力することが重要です。多くのベンダーが、私たちが探しているものを理解した後、単に意欲的であるだけでなく、私たちと協力することに熱心であることがわかりました。
+
+第二に、それらを自分自身のものにしながら文化的要素を受け入れます。日本の結婚式の伝統は美しく意味がありますが、あなたのユニークな関係を反映するように適応できます。伝統的要素と現代的な要素を混ぜることを恐れないでください - 私たちの式は、これらが調和して共存できる方法の完璧な例でした。
+
+第三に、タイミングを慎重に検討してください。私たちは春を結婚式のために選び、桜を私たちの祝賀に組み込むことを可能にしました。しかし、日本の各季節は独自の美しさを提供します - 秋の紅葉、冬の雪景色、夏祭り。あなたとあなたのパートナーに響く時間を選んでください。
+
+最後に、結婚式は設定や伝統に関係なく、愛を祝うことであることを覚えておいてください。私たちは美しい伝統的な式を持つことができましたが、本当に重要なのは、お互いに行ったコミットメントと、友人や家族と共有した愛でした。
+
+京都での私たちの結婚式は、単なる式以上のものでした - それは愛、文化、コミュニティの祝賀でした。それは異なる国や背景から来た人々を集め、すべてが私たちの結合を支持して団結しました。この経験は、愛が境界を超越し、適切なサポートと計画があれば、伝統とあなたのユニークな愛の物語の両方を尊重する結婚式を作成できることを教えてくれました。
+
+その日を振り返ると、私たちは感謝で満たされています - 美しい設定、支持的なコミュニティ、素晴らしいゲスト、そして何よりも、お互いのために。京都での私たちの結婚式は単なる日ではありませんでした。それは私たちの人生の新しい章の始まりであり、愛、尊敬、そして私たちを結びつけた文化への深い感謝と共に、一緒に書き続けるものです。0:{"buildId":"tcyUwSWyg0er57z5N0f0J","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"2","slug":"our-wedding-experience-kyoto","title":{"en":"Our Wedding Experience in Kyoto: A Dream Come True","jp":"京都でのウェディング体験記：夢が叶った瞬間"},"excerpt":{"en":"Join us as we share our intimate wedding journey in the ancient capital of Japan. From traditional ceremonies to modern celebrations, discover how we created our perfect day.","jp":"日本の古都での親密なウェディングの旅を共有します。伝統的な儀式から現代的な祝賀まで、完璧な一日をどのように作ったかを発見してください。"},"content":{"en":"$3","jp":"$4"},"date":"2023-09-20","image":"/photo/wedding/IMG_3117.JPG","tags":["wedding","kyoto","culture","photography","lgbtq-friendly"],"author":{"name":{"en":"Taka & Ady","jp":"Taka & Ady"},"role":{"en":"Co-Founders","jp":"共同創業者"}}}}],["$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/991a4b47d86dd688.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/15e97b84007b5ea5.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/27b3135442311e67.js","async":true}]
+8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

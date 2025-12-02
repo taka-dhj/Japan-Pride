@@ -1,0 +1,112 @@
+1:"$Sreact.fragment"
+2:I[96923,["/_next/static/chunks/16323b9475b3af72.js"],"Providers"]
+3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+6:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+d:I[68027,[],"default"]
+:HL["/_next/static/chunks/7ea2a6d55266a9e2.css","style"]
+:HL["/_next/static/media/01e4147cff8141ee-s.p.7787e134.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/db3f01ae0719bbb0-s.p.b64eeed7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"tcyUwSWyg0er57z5N0f0J","c":["","blog","osaka-lgbtq-friendly-travel-guide"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","osaka-lgbtq-friendly-travel-guide","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/7ea2a6d55266a9e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/16323b9475b3af72.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"cormorant_garamond_ec0b03bc-module__6ZvGZG__variable inter_fe8b9d92-module__LINzvG__variable pinyon_script_bd953a0d-module__8kg6xa__variable antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/991a4b47d86dd688.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/15e97b84007b5ea5.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/27b3135442311e67.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+e:I[21752,["/_next/static/chunks/16323b9475b3af72.js","/_next/static/chunks/991a4b47d86dd688.js","/_next/static/chunks/15e97b84007b5ea5.js","/_next/static/chunks/27b3135442311e67.js"],"BlogDetailClient"]
+f:T2021,Osaka, Japan's second-largest city, is often overshadowed by Tokyo and Kyoto in travel guides, but this vibrant metropolis offers a unique and welcoming experience for LGBTQ+ travelers. Known for its friendly locals, incredible food scene, and more relaxed atmosphere compared to Tokyo, Osaka is quickly becoming a favorite destination for LGBTQ+ visitors seeking authentic Japanese experiences.
+
+Having spent considerable time exploring Osaka's LGBTQ+ friendly spaces and connecting with the local community, I'm excited to share a comprehensive guide that will help you make the most of your visit to this wonderful city. From accommodation to nightlife, from cultural sites to dining, this guide covers everything you need to know.
+
+One of the first things you'll notice about Osaka is its distinct personality. While Tokyo is often described as more reserved and formal, Osaka has a reputation for being more open, friendly, and direct. This cultural difference extends to the LGBTQ+ community, creating an atmosphere that many LGBTQ+ travelers find more comfortable and welcoming.
+
+Osaka's LGBTQ+ scene, while smaller than Tokyo's, is vibrant and welcoming. The main LGBTQ+ district is located in the Doyama area, near Umeda Station. This area features a concentration of LGBTQ+ friendly bars, clubs, and venues, creating a safe and welcoming space for the community and allies.
+
+Doyama's nightlife scene is diverse, offering everything from intimate bars to energetic dance clubs. What sets Osaka's LGBTQ+ venues apart is their friendly, down-to-earth atmosphere. The focus is on having a good time and creating connections rather than exclusivity or pretense. This makes Osaka's LGBTQ+ scene particularly welcoming for first-time visitors to Japan or those who might feel intimidated by larger, more established scenes in other cities.
+
+When it comes to accommodation, Osaka offers numerous LGBTQ+ friendly options. Many hotels in the city are welcoming to all guests, regardless of their background or identity. The Umeda and Namba areas are particularly convenient for LGBTQ+ travelers, as they're close to the main LGBTQ+ district and offer easy access to public transportation.
+
+Osaka's food scene is legendary, and LGBTQ+ travelers will find that most restaurants and food establishments are welcoming to all diners. The city is famous for its street food, particularly in areas like Dotonbori, where you can sample local specialties like takoyaki (octopus balls) and okonomiyaki (savory pancakes). These food experiences are inclusive and welcoming, allowing you to enjoy Osaka's culinary culture authentically.
+
+One of the highlights of visiting Osaka is experiencing its unique culture. The city has a distinct dialect, sense of humor, and way of life that sets it apart from other Japanese cities. LGBTQ+ travelers will find that Osakans are generally open and accepting, making it easier to be yourself while exploring the city.
+
+For those interested in cultural sites, Osaka offers several LGBTQ+ friendly destinations. Osaka Castle is a must-visit, offering beautiful architecture and gardens that are welcoming to all visitors. The Umeda Sky Building provides stunning views of the city and is a popular spot for couples, including LGBTQ+ couples, to visit together.
+
+Osaka's shopping scene is also worth exploring. Areas like Shinsaibashi and Amerikamura offer diverse shopping experiences, from traditional Japanese goods to trendy fashion. These areas are generally LGBTQ+ friendly, with shop staff who are professional and welcoming to all customers.
+
+One thing that makes Osaka special for LGBTQ+ travelers is its growing number of LGBTQ+ friendly events and gatherings. Throughout the year, the city hosts various events that bring together the LGBTQ+ community and allies. These events range from casual meetups to more organized celebrations, providing opportunities to connect with local community members.
+
+The city's public transportation system is excellent, making it easy to navigate Osaka and explore its various neighborhoods. The subway and train systems are well-connected, and most signs include English, making it accessible for international LGBTQ+ travelers.
+
+Safety is always a consideration when traveling, and Osaka is generally a very safe city. The city has a lower crime rate than many major cities, and LGBTQ+ travelers typically feel comfortable exploring both during the day and at night. However, as with any city, it's always wise to stay aware of your surroundings and take standard safety precautions.
+
+For couples visiting Osaka together, the city offers numerous romantic experiences. From river cruises to romantic dining options, there are plenty of ways to enjoy time together. Many venues are welcoming to LGBTQ+ couples, creating opportunities for romantic experiences that you'll remember for years to come.
+
+One of the unique aspects of Osaka's LGBTQ+ scene is its connection to the city's broader cultural identity. Osaka has a long history of being a commercial and cultural hub, and this tradition of openness and exchange extends to the LGBTQ+ community. The city's merchants and business owners have a reputation for being welcoming to all customers, regardless of their background.
+
+When planning your visit to Osaka, consider the timing. The city is beautiful year-round, but spring (cherry blossom season) and autumn (foliage season) are particularly popular times to visit. However, Osaka's food scene and cultural attractions make it worth visiting at any time of year.
+
+For those interested in day trips, Osaka is well-positioned for exploring other parts of the Kansai region. Kyoto, Nara, and Kobe are all easily accessible by train, making it possible to experience multiple cities during your visit. These day trips can be particularly enjoyable for LGBTQ+ travelers, as the entire Kansai region is generally welcoming and LGBTQ+ friendly.
+
+One thing that sets Osaka apart is its affordability compared to Tokyo. Accommodation, dining, and entertainment are generally more affordable in Osaka, making it an attractive option for LGBTQ+ travelers who want to experience Japan without breaking the bank. This affordability, combined with the city's welcoming atmosphere, makes Osaka an excellent choice for longer stays.
+
+The city's international community is growing, and with it, the number of English-speaking services and resources for LGBTQ+ travelers. Many venues have English menus, and there are resources available for those who need assistance or information about LGBTQ+ friendly spaces and services.
+
+Osaka's LGBTQ+ community is active and welcoming, with various organizations and groups that provide support and community for both residents and visitors. These groups often host events and gatherings that are open to all, providing opportunities to connect with the local LGBTQ+ community in a relaxed, welcoming environment.
+
+For those interested in nightlife, Osaka offers a diverse range of options. From intimate bars in Doyama to larger clubs and entertainment venues, there's something for everyone. The atmosphere is generally more relaxed than in larger cities, making it easier to meet people and enjoy yourself.
+
+One of the things that makes Osaka special for LGBTQ+ travelers is its balance of tradition and modernity. The city respects its cultural heritage while embracing contemporary values, creating an environment where LGBTQ+ travelers can experience authentic Japanese culture while feeling comfortable being themselves.
+
+Remember that visiting Osaka is about more than just checking off tourist attractions - it's about experiencing the city's unique culture, meeting its friendly people, and creating memories. As an LGBTQ+ traveler, you have every right to fully participate in these experiences and to enjoy Osaka authentically and safely.
+
+The key to enjoying Osaka as an LGBTQ+ traveler is to be open, respectful, and yourself. The city's welcoming atmosphere, friendly locals, and diverse attractions make it an ideal destination for LGBTQ+ travelers seeking authentic Japanese experiences. With a little planning and an adventurous spirit, you're sure to have an unforgettable visit to this wonderful city.10:T28cf,日本の第二の都市である大阪は、旅行ガイドでは東京と京都にしばしば影を落としていますが、この活気ある大都市はLGBTQ+旅行者にユニークで歓迎的な体験を提供します。友好的な地元の人々、信じられないほどのフードシーン、東京と比較してよりリラックスした雰囲気で知られる大阪は、本格的な日本の体験を求めるLGBTQ+訪問者のお気に入りの目的地になりつつあります。
+
+大阪のLGBTQ+フレンドリーな空間を探索し、地元コミュニティとつながることにかなりの時間を費やした後、この素晴らしい都市への訪問を最大限に活用するのに役立つ包括的なガイドを共有できることを嬉しく思います。宿泊施設からナイトライフ、文化遺産から食事まで、このガイドは知っておく必要があるすべてをカバーしています。
+
+大阪について最初に気づくことの一つは、その独特の個性です。東京はしばしばより控えめで形式的であると説明されますが、大阪はよりオープンで、友好的で、直接的であるという評判があります。この文化的違いはLGBTQ+コミュニティにまで及んでおり、多くのLGBTQ+旅行者がより快適で歓迎的であると感じる雰囲気を作り出します。
+
+大阪のLGBTQ+シーンは、東京よりも小さいですが、活気があり歓迎的です。主要なLGBTQ+地区は、梅田駅の近くの堂山エリアにあります。このエリアには、LGBTQ+フレンドリーなバー、クラブ、会場が集中しており、コミュニティとアライのための安全で歓迎的な空間を作り出しています。
+
+堂山のナイトライフシーンは多様で、親密なバーからエネルギッシュなダンスクラブまで、あらゆるものを提供します。大阪のLGBTQ+会場を際立たせているのは、その友好的で現実的な雰囲気です。焦点は、良い時間を過ごし、つながりを作ることにあるため、排他性や見せかけではありません。これにより、大阪のLGBTQ+シーンは、日本への初めての訪問者や、他の都市のより大きく、より確立されたシーンに威圧される可能性のある人にとって特に歓迎的です。
+
+宿泊施設に関しては、大阪は多数のLGBTQ+フレンドリーなオプションを提供します。都市の多くのホテルは、背景やアイデンティティに関係なく、すべてのゲストを歓迎します。梅田と難波のエリアは、主要なLGBTQ+地区に近く、公共交通機関へのアクセスが容易なため、LGBTQ+旅行者にとって特に便利です。
+
+大阪のフードシーンは伝説的で、LGBTQ+旅行者は、ほとんどのレストランや飲食店がすべての食事客を歓迎していることを発見するでしょう。都市はそのストリートフードで有名で、特に道頓堀のようなエリアでは、たこ焼きやお好み焼きのような地元の特産品を味わうことができます。これらのフード体験は包括的で歓迎的であり、大阪の料理文化を本質的に楽しむことを可能にします。
+
+大阪を訪れることのハイライトの一つは、その独特の文化を体験することです。都市には独特の方言、ユーモアのセンス、ライフスタイルがあり、他の日本の都市と区別されます。LGBTQ+旅行者は、大阪人が一般的にオープンで受容的であることを発見し、都市を探索しながら自分らしくいることがより簡単になります。
+
+文化遺産に興味のある人にとって、大阪はいくつかのLGBTQ+フレンドリーな目的地を提供します。大阪城は必見で、すべての訪問者を歓迎する美しい建築と庭園を提供します。梅田スカイビルは都市の息を呑むような景色を提供し、LGBTQ+カップルを含むカップルが一緒に訪れる人気のスポットです。
+
+大阪のショッピングシーンも探索する価値があります。心斎橋やアメリカ村のようなエリアは、伝統的な日本の商品からトレンディなファッションまで、多様なショッピング体験を提供します。これらのエリアは一般的にLGBTQ+フレンドリーで、プロフェッショナルですべての顧客を歓迎するショップスタッフがいます。
+
+LGBTQ+旅行者にとって大阪を特別にすることの一つは、LGBTQ+フレンドリーなイベントや集まりの増加です。一年を通じて、都市はLGBTQ+コミュニティとアライを結びつけるさまざまなイベントを開催します。これらのイベントは、カジュアルなミートアップからより組織化された祝賀までさまざまで、地元コミュニティメンバーとつながる機会を提供します。
+
+都市の公共交通システムは優れており、大阪をナビゲートし、そのさまざまな近隣を探索するのが簡単です。地下鉄と電車システムはよく接続されており、ほとんどの標識には英語が含まれているため、国際的なLGBTQ+旅行者にとってアクセスしやすくなっています。
+
+安全性は旅行する際の常に考慮事項であり、大阪は一般的に非常に安全な都市です。都市は多くの主要都市よりも犯罪率が低く、LGBTQ+旅行者は通常、日中も夜も探索するのに快適さを感じます。しかし、どの都市と同様に、常に周囲に注意を払い、標準的な安全対策を講じることは常に賢明です。
+
+一緒に大阪を訪れるカップルにとって、都市は多数のロマンチックな体験を提供します。川クルーズからロマンチックな食事オプションまで、一緒に時間を楽しむ方法がたくさんあります。多くの会場はLGBTQ+カップルを歓迎し、何年も覚えているロマンチックな体験の機会を作り出します。
+
+大阪のLGBTQ+シーンのユニークな側面の一つは、都市のより広範な文化的アイデンティティとのつながりです。大阪は商業および文化の中心地として長い歴史があり、この開放性と交流の伝統はLGBTQ+コミュニティにまで及んでいます。都市の商人や事業主は、背景に関係なく、すべての顧客を歓迎するという評判があります。
+
+大阪への訪問を計画する際は、タイミングを考慮してください。都市は一年中美しいですが、春（桜の季節）と秋（紅葉の季節）は特に人気のある訪問時期です。しかし、大阪のフードシーンと文化的魅力は、一年中いつでも訪問する価値があります。
+
+日帰り旅行に興味のある人にとって、大阪は関西地方の他の部分を探索するのに適した位置にあります。京都、奈良、神戸はすべて電車で簡単にアクセスでき、訪問中に複数の都市を体験することが可能です。これらの日帰り旅行は、LGBTQ+旅行者にとって特に楽しいものになる可能性があります。関西地方全体が一般的に歓迎的でLGBTQ+フレンドリーであるためです。
+
+大阪を際立たせることの一つは、東京と比較したその手頃な価格です。宿泊施設、食事、エンターテインメントは一般的に大阪の方が手頃な価格で、銀行を破綻させることなく日本を体験したいLGBTQ+旅行者にとって魅力的なオプションになります。この手頃な価格は、都市の歓迎的な雰囲気と組み合わせて、大阪をより長い滞在のための優れた選択肢にします。
+
+都市の国際コミュニティは成長しており、それに伴い、LGBTQ+旅行者のための英語を話すサービスとリソースの数が増えています。多くの会場には英語のメニューがあり、LGBTQ+フレンドリーな空間やサービスに関する支援や情報を必要とする人々のためにリソースが利用可能です。
+
+大阪のLGBTQ+コミュニティは活動的で歓迎的で、居住者と訪問者の両方にサポートとコミュニティを提供するさまざまな組織とグループがあります。これらのグループは、しばしばすべての人に開放されたイベントや集まりを開催し、リラックスした歓迎的な環境で地元のLGBTQ+コミュニティとつながる機会を提供します。
+
+ナイトライフに興味のある人にとって、大阪は多様なオプションを提供します。堂山の親密なバーからより大きなクラブやエンターテインメント会場まで、誰にとっても何かがあります。雰囲気は一般的により大きな都市よりもリラックスしているため、人々と会い、楽しむことがより簡単です。
+
+LGBTQ+旅行者にとって大阪を特別にすることの一つは、伝統と現代性のバランスです。都市はその文化的遺産を尊重しながら現代の価値観を受け入れ、LGBTQ+旅行者が自分らしくいることに快適さを感じながら本格的な日本の文化を体験できる環境を作り出します。
+
+大阪を訪れることは、単なる観光名所をチェックオフすること以上のものであることを覚えておいてください - それは都市の独特の文化を体験し、その友好的な人々と会い、思い出を作ることです。LGBTQ+旅行者として、あなたはこれらの体験に完全に参加し、大阪を本質的かつ安全に楽しむあらゆる権利を持っています。
+
+LGBTQ+旅行者として大阪を楽しむ鍵は、オープンで、敬意を持ち、自分自身であることです。都市の歓迎的な雰囲気、友好的な地元の人々、多様な魅力は、本格的な日本の体験を求めるLGBTQ+旅行者にとって理想的な目的地にします。少しの計画と冒険的な精神で、この素晴らしい都市への忘れられない訪問をすることでしょう。5:["$","$Le",null,{"post":{"id":"6","slug":"osaka-lgbtq-friendly-travel-guide","title":{"en":"Osaka: A Comprehensive LGBTQ+ Friendly Travel Guide","jp":"大阪：包括的なLGBTQ+フレンドリーな旅行ガイド"},"excerpt":{"en":"Explore Osaka's welcoming atmosphere, vibrant food scene, and LGBTQ+ friendly venues. Discover why this city is becoming a favorite destination for LGBTQ+ travelers.","jp":"大阪の歓迎的な雰囲気、活気あるフードシーン、LGBTQ+フレンドリーな会場を探索してください。この都市がLGBTQ+旅行者のお気に入りの目的地になりつつある理由を発見してください。"},"content":{"en":"$f","jp":"$10"},"date":"2023-05-20","image":"/photo/t-a/IMG_1895.JPG","tags":["osaka","travel-guide","lgbtq-friendly","food","culture"],"author":{"name":{"en":"Taka & Ady","jp":"Taka & Ady"},"role":{"en":"Co-Founders & Guides","jp":"共同創業者 & ガイド"}}}}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+c:[["$","title","0",{"children":"Osaka: A Comprehensive LGBTQ+ Friendly Travel Guide | Japan Pride Journeys"}],["$","meta","1",{"name":"description","content":"Explore Osaka's welcoming atmosphere, vibrant food scene, and LGBTQ+ friendly venues. Discover why this city is becoming a favorite destination for LGBTQ+ travelers."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]]
+8:null

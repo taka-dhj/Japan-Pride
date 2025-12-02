@@ -23,22 +23,28 @@ export const Header = () => {
     }, []);
 
     const navLinks = [
-        { name: t.home, href: "#hero" },
-        { name: t.tours, href: "#tours" },
-        { name: t.about, href: "#intro" },
-        { name: t.wedding, href: "#wedding" },
-        { name: t.blog, href: "#blog" },
-        { name: t.contact, href: "#footer" },
+        { name: t.home, href: "/#hero" },
+        { name: t.tours, href: "/#tours" },
+        { name: t.about, href: "/#intro" },
+        { name: t.wedding, href: "/#wedding" },
+        { name: t.blog, href: "/blog" },
+        { name: t.contact, href: "/#footer" },
     ];
 
     return (
         <header
-            className={cn(
-                "fixed top-0 left-0 right-0 z-50 transition-all duration-300",
-                isScrolled ? "bg-white/90 backdrop-blur-md shadow-sm py-4" : "bg-transparent py-6"
-            )}
+            className="fixed top-0 left-0 right-0 z-[100] w-full bg-white shadow-sm"
+            style={{ 
+                position: 'fixed',
+                top: 0,
+                left: 0,
+                right: 0,
+                zIndex: 100,
+                width: '100%',
+                backgroundColor: '#ffffff'
+            }}
         >
-            <div className="container mx-auto px-6 flex justify-between items-center">
+            <div className="container mx-auto px-6 py-4 flex justify-between items-center min-h-[64px]">
                 <Link href="/" className="text-2xl font-serif font-bold tracking-wider text-foreground">
                     Japan Pride Journeys
                 </Link>
@@ -80,7 +86,7 @@ export const Header = () => {
                         initial={{ opacity: 0, y: -20 }}
                         animate={{ opacity: 1, y: 0 }}
                         exit={{ opacity: 0, y: -20 }}
-                        className="absolute top-full left-0 right-0 bg-white shadow-lg md:hidden"
+                        className="absolute top-full left-0 right-0 bg-white shadow-lg md:hidden z-[101]"
                     >
                         <div className="flex flex-col p-6 space-y-4">
                             {navLinks.map((link) => (

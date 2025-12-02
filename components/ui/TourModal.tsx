@@ -43,8 +43,8 @@ export const TourModal: React.FC<TourModalProps> = ({ tourId, isOpen, onClose })
         );
         const body = encodeURIComponent(
             language === "en"
-                ? `I'm interested in learning more about the ${tour.title} tour.\n\nDuration: ${tour.duration}\nPrice: ${tour.price}\n\nPlease provide more information.`
-                : `${tour.title}について詳しく知りたいです。\n\n期間: ${tour.duration}\n料金: ${tour.price}\n\n詳細情報をお願いします。`
+                ? `I'm interested in learning more about the ${tour.title} tour.\n\nDuration: ${tour.duration}\n\nPlease provide more information.`
+                : `${tour.title}について詳しく知りたいです。\n\n期間: ${tour.duration}\n\n詳細情報をお願いします。`
         );
         window.location.href = `mailto:info@japanpridejourneys.com?subject=${subject}&body=${body}`;
     };
@@ -100,8 +100,6 @@ export const TourModal: React.FC<TourModalProps> = ({ tourId, isOpen, onClose })
                                     <div className="flex items-center gap-2 mb-2">
                                         <Clock className="w-4 h-4" />
                                         <span className="text-sm font-medium">{tour.duration}</span>
-                                        <span className="text-white/60">•</span>
-                                        <span className="text-sm font-medium">{tour.price}</span>
                                     </div>
                                     <h2 className="text-3xl md:text-4xl font-serif font-bold">
                                         {tour.title}

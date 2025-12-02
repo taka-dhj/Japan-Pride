@@ -1,7 +1,7 @@
-@import "tailwindcss";
-
 /* Google Fonts - Zen Old Mincho */
 @import url('https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;500;600;700;900&display=swap');
+
+@import "tailwindcss";
 
 :root {
   /* Zen Retreat Palette */
@@ -100,4 +100,11 @@ h4,
 h5,
 h6 {
   font-weight: 600;
+}
+
+/* Heroセクションの背景画像位置調整（モバイル） */
+.hero-bg-mobile {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 85% !important;
 }

@@ -11,7 +11,12 @@ export async function generateStaticParams() {
     }));
 }
 
-export default function TourDetailPage({ params }: { params: { id: string } }) {
-    return <TourDetailClient tourId={params.id} />;
+export default async function TourDetailPage({ params }: { params: Promise<{ id: string }> }) {
+    const { id } = await params;
+    // デバッグ用: 開発モードでのみコンソールに出力
+    if (process.env.NODE_ENV === 'development') {
+        console.log('Tour ID:', id);
+    }
+    return <TourDetailClient tourId={id} />;
 }
 
