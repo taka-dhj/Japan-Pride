@@ -2,6 +2,7 @@
 
 import React from "react";
 import { useLanguage } from "@/context/LanguageContext";
+import { useContactModal } from "@/context/ContactModalContext";
 import { content } from "@/lib/data";
 import Image from "next/image";
 import { ArrowLeft, Clock, Calendar, MapPin, Mail } from "lucide-react";
@@ -18,6 +19,7 @@ interface TourDetailClientProps {
 
 export function TourDetailClient({ tourId }: TourDetailClientProps) {
     const { language } = useLanguage();
+    const { openContactModal } = useContactModal();
     const t = content[language].tours;
 
     // デバッグ用
@@ -284,21 +286,13 @@ export function TourDetailClient({ tourId }: TourDetailClientProps) {
                                     : "このツアーについての詳細情報やご予約については、お気軽にお問い合わせください。ご希望やニーズに合わせて旅程をカスタマイズいたします。"}
                             </p>
                             <div className="flex flex-col sm:flex-row gap-4">
-                                <a
-                                    href={`mailto:info@japanpridejourneys.com?subject=${encodeURIComponent(
-                                        language === "en"
-                                            ? `Inquiry about ${tour.title}`
-                                            : `${tour.title}についてのお問い合わせ`
-                                    )}&body=${encodeURIComponent(
-                                        language === "en"
-                                            ? `I'm interested in learning more about the ${tour.title} tour.\n\nDuration: ${tour.duration}\n\nPlease provide more information.`
-                                            : `${tour.title}について詳しく知りたいです。\n\n期間: ${tour.duration}\n\n詳細情報をお願いします。`
-                                    )}`}
+                                <button
+                                    onClick={openContactModal}
                                     className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-primary text-white rounded-sm hover:bg-primary/90 transition-colors font-medium text-lg"
                                 >
                                     <Mail className="w-5 h-5" />
                                     {language === "en" ? "Contact Us" : "お問い合わせ"}
-                                </a>
+                                </button>
                             </div>
                         </motion.div>
                     </div>
