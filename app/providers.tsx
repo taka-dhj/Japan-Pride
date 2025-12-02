@@ -1,11 +1,14 @@
 "use client";
 
 import { LanguageProvider } from "@/context/LanguageContext";
+import { ContactModalProvider } from "@/context/ContactModalContext";
 
 export function Providers({ children }: { children: React.ReactNode }) {
     return (
         <LanguageProvider>
-            {children}
+            <ContactModalProvider>
+                {children}
+            </ContactModalProvider>
         </LanguageProvider>
     );
 }

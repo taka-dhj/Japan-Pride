@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import { useLanguage } from "@/context/LanguageContext";
+import { useContactModal } from "@/context/ContactModalContext";
 import { content } from "@/lib/data";
 import { Menu, X, Globe } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -10,6 +11,7 @@ import { cn } from "@/lib/utils";
 
 export const Header = () => {
     const { language, toggleLanguage } = useLanguage();
+    const { openContactModal } = useContactModal();
     const t = content[language].nav;
     const [isScrolled, setIsScrolled] = useState(false);
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -28,7 +30,7 @@ export const Header = () => {
         { name: t.about, href: "/#intro" },
         { name: t.wedding, href: "/#wedding" },
         { name: t.blog, href: "/blog" },
-        { name: t.contact, href: "/#footer" },
+        { name: t.contact, href: "#", isContact: true },
     ];
 
     return (
@@ -52,14 +54,25 @@ export const Header = () => {
                 {/* Desktop Nav */}
                 <nav className="hidden md:flex items-center space-x-8">
                     {navLinks.map((link) => (
-                        <Link
-                            key={link.name}
-                            href={link.href}
-                            className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors relative group"
-                        >
-                            {link.name}
-                            <span className="absolute left-0 bottom-[-4px] w-0 h-[1px] bg-gradient-to-r from-purple-400 to-pink-400 transition-all duration-300 group-hover:w-full" />
-                        </Link>
+                        link.isContact ? (
+                            <button
+                                key={link.name}
+                                onClick={openContactModal}
+                                className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors relative group"
+                            >
+                                {link.name}
+                                <span className="absolute left-0 bottom-[-4px] w-0 h-[1px] bg-gradient-to-r from-purple-400 to-pink-400 transition-all duration-300 group-hover:w-full" />
+                            </button>
+                        ) : (
+                            <Link
+                                key={link.name}
+                                href={link.href}
+                                className="text-sm font-medium text-foreground/80 hover:text-primary transition-colors relative group"
+                            >
+                                {link.name}
+                                <span className="absolute left-0 bottom-[-4px] w-0 h-[1px] bg-gradient-to-r from-purple-400 to-pink-400 transition-all duration-300 group-hover:w-full" />
+                            </Link>
+                        )
                     ))}
                     <button
                         onClick={toggleLanguage}
@@ -90,14 +103,27 @@ export const Header = () => {
                     >
                         <div className="flex flex-col p-6 space-y-4">
                             {navLinks.map((link) => (
-                                <Link
-                                    key={link.name}
-                                    href={link.href}
-                                    className="text-lg font-medium text-foreground hover:text-primary"
-                                    onClick={() => setIsMobileMenuOpen(false)}
-                                >
-                                    {link.name}
-                                </Link>
+                                link.isContact ? (
+                                    <button
+                                        key={link.name}
+                                        onClick={() => {
+                                            openContactModal();
+                                            setIsMobileMenuOpen(false);
+                                        }}
+                                        className="text-lg font-medium text-foreground hover:text-primary text-left"
+                                    >
+                                        {link.name}
+                                    </button>
+                                ) : (
+                                    <Link
+                                        key={link.name}
+                                        href={link.href}
+                                        className="text-lg font-medium text-foreground hover:text-primary"
+                                        onClick={() => setIsMobileMenuOpen(false)}
+                                    >
+                                        {link.name}
+                                    </Link>
+                                )
                             ))}
                             <button
                                 onClick={() => {

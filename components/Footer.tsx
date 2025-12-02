@@ -2,13 +2,14 @@
 
 import React from "react";
 import { useLanguage } from "@/context/LanguageContext";
+import { useContactModal } from "@/context/ContactModalContext";
 import { content } from "@/lib/data";
 import { Instagram, Mail, ArrowRight } from "lucide-react";
 import { motion } from "framer-motion";
-import Link from "next/link";
 
 export const Footer = () => {
     const { language } = useLanguage();
+    const { openContactModal } = useContactModal();
     const t = content[language].footer;
 
     return (
@@ -37,15 +38,13 @@ export const Footer = () => {
                         <p className="text-lg md:text-xl mb-8 leading-relaxed drop-shadow-md" style={{ textShadow: "0 1px 4px rgba(0, 0, 0, 0.3)" }}>
                             {t.cta.subheading}
                         </p>
-                        <a
-                            href={`mailto:${t.contact.email}?subject=${encodeURIComponent(
-                                language === "en" ? "Inquiry" : "お問い合わせ"
-                            )}`}
+                        <button
+                            onClick={openContactModal}
                             className="inline-flex items-center gap-2 px-8 py-4 bg-white text-foreground font-medium rounded-sm hover:bg-white/90 transition-colors"
                         >
                             {t.cta.button}
                             <ArrowRight className="w-5 h-5" />
-                        </a>
+                        </button>
                     </motion.div>
                 </div>
             </section>
