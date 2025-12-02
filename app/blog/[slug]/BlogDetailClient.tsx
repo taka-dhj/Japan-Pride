@@ -9,7 +9,8 @@ import { ArrowLeft, Calendar, Tag, User } from "lucide-react";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { motion } from "framer-motion";
-import { cn } from "@/lib/utils";
+import ReactMarkdown from "react-markdown";
+import { ArticleH2, ArticleH3, ArticleH4, PRIDE_COLORS } from "@/components/ui/ArticleHeadings";
 
 interface BlogDetailClientProps {
     post: BlogPost;
@@ -19,8 +20,12 @@ export function BlogDetailClient({ post }: BlogDetailClientProps) {
     const { language } = useLanguage();
     const tags = blogTags[language];
 
-    // Split content into paragraphs for better rendering
-    const contentParagraphs = post.content[language].split("\n\n").filter((p) => p.trim());
+    // Process content to convert **Q:** style to proper markdown headings
+    const processedContent = post.content[language]
+        // Convert **Q: ... ** to ## headings
+        .replace(/\*\*Q:\s*([^*]+)\*\*/g, '\n## $1\n')
+        // Convert other **bold** patterns that look like headings
+        .replace(/\*\*([A-Z][^*]{10,})\*\*/g, '\n### $1\n');
 
     return (
         <div className="min-h-screen flex flex-col">
@@ -99,26 +104,92 @@ export function BlogDetailClient({ post }: BlogDetailClientProps) {
                                 ))}
                             </div>
 
-                            {/* Content */}
-                            <div className="prose prose-lg max-w-none">
-                                {contentParagraphs.map((paragraph, index) => (
-                                    <motion.p
-                                        key={index}
-                                        initial={{ opacity: 0, y: 20 }}
-                                        animate={{ opacity: 1, y: 0 }}
-                                        transition={{ duration: 0.5, delay: index * 0.1 }}
-                                        className="text-lg text-foreground leading-relaxed mb-6"
-                                    >
-                                        {paragraph}
-                                    </motion.p>
-                                ))}
-                            </div>
+                            {/* Content with Markdown */}
+                            <motion.div
+                                initial={{ opacity: 0, y: 20 }}
+                                animate={{ opacity: 1, y: 0 }}
+                                transition={{ duration: 0.6 }}
+                                className="prose prose-lg max-w-none
+                                    prose-headings:font-serif prose-headings:font-bold prose-headings:text-foreground
+                                    prose-h2:text-3xl prose-h2:mt-12 prose-h2:mb-6 prose-h2:border-b prose-h2:border-border/30 prose-h2:pb-4
+                                    prose-h3:text-2xl prose-h3:mt-8 prose-h3:mb-4
+                                    prose-h4:text-xl prose-h4:mt-6 prose-h4:mb-3
+                                    prose-p:text-lg prose-p:text-foreground prose-p:leading-relaxed prose-p:mb-6
+                                    prose-strong:text-foreground prose-strong:font-bold
+                                    prose-em:text-foreground prose-em:italic
+                                    prose-ul:my-6 prose-ul:pl-6
+                                    prose-ol:my-6 prose-ol:pl-6
+                                    prose-li:text-lg prose-li:text-foreground prose-li:mb-2
+                                    prose-blockquote:border-l-4 prose-blockquote:border-primary prose-blockquote:pl-6 prose-blockquote:italic prose-blockquote:text-muted-foreground prose-blockquote:my-8
+                                    prose-a:text-primary prose-a:underline prose-a:hover:text-primary/80
+                                "
+                            >
+                                <ReactMarkdown
+                                    components={{
+                                        h1: ({ children }) => <ArticleH2>{children}</ArticleH2>,
+                                        h2: ({ children }) => <ArticleH2>{children}</ArticleH2>,
+                                        h3: ({ children }) => <ArticleH3>{children}</ArticleH3>,
+                                        h4: ({ children }) => <ArticleH4>{children}</ArticleH4>,
+                                        p: ({ children }) => (
+                                            <p className="text-base md:text-lg text-foreground leading-relaxed mb-6">
+                                                {children}
+                                            </p>
+                                        ),
+                                        strong: ({ children }) => (
+                                            <strong className="font-bold text-primary">
+                                                {children}
+                                            </strong>
+                                        ),
+                                        em: ({ children }) => (
+                                            <em className="italic text-muted-foreground">{children}</em>
+                                        ),
+                                        ul: ({ children }) => (
+                                            <ul className="my-6 pl-6 space-y-3">
+                                                {children}
+                                            </ul>
+                                        ),
+                                        ol: ({ children }) => (
+                                            <ol className="my-6 pl-6 list-decimal space-y-3">
+                                                {children}
+                                            </ol>
+                                        ),
+                                        li: ({ children }) => (
+                                            <li className="text-base md:text-lg text-foreground list-disc ml-4 marker:text-primary">
+                                                {children}
+                                            </li>
+                                        ),
+                                        blockquote: ({ children }) => (
+                                            <blockquote 
+                                                className="pl-6 italic text-muted-foreground my-8 relative"
+                                                style={{
+                                                    borderLeft: `4px solid`,
+                                                    borderImage: `linear-gradient(to bottom, ${PRIDE_COLORS.join(', ')}) 1`
+                                                }}
+                                            >
+                                                {children}
+                                            </blockquote>
+                                        ),
+                                        a: ({ href, children }) => (
+                                            <a
+                                                href={href}
+                                                className="text-primary underline hover:text-primary/80 transition-colors"
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                            >
+                                                {children}
+                                            </a>
+                                        ),
+                                    }}
+                                >
+                                    {processedContent}
+                                </ReactMarkdown>
+                            </motion.div>
 
                             {/* Author Info */}
                             <motion.div
                                 initial={{ opacity: 0, y: 20 }}
                                 animate={{ opacity: 1, y: 0 }}
-                                transition={{ duration: 0.6, delay: contentParagraphs.length * 0.1 }}
+                                transition={{ duration: 0.6, delay: 0.3 }}
                                 className="mt-16 pt-8 border-t border-border/30"
                             >
                                 <div className="flex items-start gap-4">
@@ -140,7 +211,7 @@ export function BlogDetailClient({ post }: BlogDetailClientProps) {
                             <motion.div
                                 initial={{ opacity: 0 }}
                                 animate={{ opacity: 1 }}
-                                transition={{ duration: 0.6, delay: contentParagraphs.length * 0.1 + 0.2 }}
+                                transition={{ duration: 0.6, delay: 0.5 }}
                                 className="mt-12 text-center"
                             >
                                 <Link
@@ -159,5 +230,3 @@ export function BlogDetailClient({ post }: BlogDetailClientProps) {
         </div>
     );
 }
-
-

@@ -10,6 +10,7 @@ import { cn } from "@/lib/utils";
 import Link from "next/link";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { ArticleH2, ArticleH3, ArticleH4 } from "@/components/ui/ArticleHeadings";
 
 interface TourDetailClientProps {
     tourId: string;
@@ -111,9 +112,9 @@ export function TourDetailClient({ tourId }: TourDetailClientProps) {
                 <div className="container mx-auto px-6">
                     <div className="max-w-4xl mx-auto">
                         <div>
-                            <h2 className={cn("text-3xl md:text-4xl font-serif mb-6 text-foreground", language === "en" ? "font-bold" : "font-semibold")}>
+                            <ArticleH2 className="mt-8">
                                 {language === "en" ? "Overview" : "概要"}
-                            </h2>
+                            </ArticleH2>
                             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
                                 {tour.fullDescription}
                             </p>
@@ -126,15 +127,11 @@ export function TourDetailClient({ tourId }: TourDetailClientProps) {
             <section className="py-16 md:py-24 bg-secondary/30">
                 <div className="container mx-auto px-6">
                     <div className="max-w-6xl mx-auto">
-                        <motion.h2
-                            initial={{ opacity: 0, y: 20 }}
-                            whileInView={{ opacity: 1, y: 0 }}
-                            viewport={{ once: true }}
-                            transition={{ duration: 0.6 }}
-                            className={cn("text-3xl md:text-4xl font-serif mb-12 text-center text-foreground", language === "en" ? "font-bold" : "font-semibold")}
-                        >
-                            {language === "en" ? "Gallery" : "ギャラリー"}
-                        </motion.h2>
+                        <div className="flex justify-center mb-12">
+                            <ArticleH2 className="mt-0 text-center">
+                                {language === "en" ? "Gallery" : "ギャラリー"}
+                            </ArticleH2>
+                        </div>
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
                             {galleryImages.map((image, index) => (
                                 <motion.div
@@ -170,10 +167,9 @@ export function TourDetailClient({ tourId }: TourDetailClientProps) {
                                 viewport={{ once: true }}
                                 transition={{ duration: 0.6 }}
                             >
-                                <h2 className={cn("text-3xl md:text-4xl font-serif mb-8 text-foreground flex items-center gap-3", language === "en" ? "font-bold" : "font-semibold")}>
-                                    <Calendar className="w-8 h-8 text-primary" />
+                                <ArticleH2 className="mt-0">
                                     {language === "en" ? "Sample Schedule" : "スケジュール例"}
-                                </h2>
+                                </ArticleH2>
                                 <div className="space-y-4">
                                     {tour.schedule.map((item, index) => (
                                         <motion.div
@@ -211,10 +207,9 @@ export function TourDetailClient({ tourId }: TourDetailClientProps) {
                                 transition={{ duration: 0.6 }}
                                 className="mb-12"
                             >
-                                <h2 className={cn("text-3xl md:text-4xl font-serif mb-4 text-foreground flex items-center gap-3", language === "en" ? "font-bold" : "font-semibold")}>
-                                    <MapPin className="w-8 h-8 text-primary" />
+                                <ArticleH2 className="mt-0">
                                     {language === "en" ? "Locations & Sample Experiences" : "場所と体験内容例"}
-                                </h2>
+                                </ArticleH2>
                             </motion.div>
 
                             <div className="space-y-16">
@@ -243,9 +238,9 @@ export function TourDetailClient({ tourId }: TourDetailClientProps) {
 
                                         {/* Content */}
                                         <div className={cn(index % 2 === 1 && "md:order-1")}>
-                                            <h3 className="text-2xl md:text-3xl font-serif font-bold mb-4 text-foreground">
+                                            <ArticleH3 className="mt-0">
                                                 {location.name}
-                                            </h3>
+                                            </ArticleH3>
                                             <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
                                                 {location.description}
                                             </p>
@@ -280,9 +275,9 @@ export function TourDetailClient({ tourId }: TourDetailClientProps) {
                             viewport={{ once: true }}
                             transition={{ duration: 0.6 }}
                         >
-                            <h2 className={cn("text-3xl md:text-4xl font-serif mb-4 text-foreground", language === "en" ? "font-bold" : "font-semibold")}>
+                            <ArticleH2 className="mt-0">
                                 {language === "en" ? "Inquiry" : "お問い合わせ"}
-                            </h2>
+                            </ArticleH2>
                             <p className="text-muted-foreground text-lg mb-8 leading-relaxed">
                                 {language === "en"
                                     ? "For more information about this tour or to make a reservation, please contact us. We'll be happy to customize the itinerary to match your preferences and needs."

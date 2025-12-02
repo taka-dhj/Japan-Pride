@@ -86,21 +86,39 @@ export const blogPosts: BlogPost[] = [
         content: {
             en: `Shinjuku Nichome is the heart of Tokyo's LGBTQ+ community, boasting over 300 bars and clubs in just a few blocks. As someone who has spent countless nights exploring this vibrant district, I'm excited to share my top picks for the best LGBTQ+ bars in the area.
 
+## 1. Arty Farty - The Legendary Welcome
+
 First on the list is Arty Farty, a legendary bar that has been welcoming the LGBTQ+ community for over three decades. Located just a short walk from Shinjuku Station, this cozy establishment offers a warm, friendly atmosphere perfect for both newcomers and regulars. The bar features an extensive cocktail menu, with their signature "Arty Farty Special" being a must-try. The staff speaks multiple languages, making it accessible for international visitors. What sets Arty Farty apart is its commitment to creating a safe space where everyone can be themselves without judgment.
+
+## 2. Aiiro Cafe - Modern & Stylish
 
 Next up is Aiiro Cafe, a stylish bar that combines excellent drinks with a welcoming atmosphere. This establishment is particularly popular among the younger LGBTQ+ crowd and allies. The interior design is modern and chic, with rainbow flags proudly displayed. Aiiro Cafe hosts regular events, including drag shows and themed parties, making it a great place to experience Tokyo's LGBTQ+ nightlife culture. Their food menu is also noteworthy, offering delicious bar snacks and light meals that pair perfectly with their creative cocktails.
 
+## 3. Bar Goldfinger - Intimate & Sophisticated
+
 For those looking for a more intimate setting, Bar Goldfinger offers a sophisticated experience. This smaller bar focuses on quality over quantity, with expertly crafted cocktails and a carefully curated selection of spirits. The atmosphere is relaxed and conversation-friendly, making it ideal for dates or catching up with friends. The bar's owner is known for being particularly welcoming to international visitors, often sharing stories about the local LGBTQ+ community and its history.
+
+## 4. Dragon Men - Dance the Night Away
 
 If dancing is more your style, Dragon Men is the place to be. This energetic club features a spacious dance floor, state-of-the-art sound system, and regular DJ performances. The club attracts a diverse crowd and is known for its inclusive atmosphere. Dragon Men hosts themed nights throughout the week, from Latin nights to techno parties, ensuring there's always something exciting happening. The club also has a bar area for those who prefer to socialize while enjoying the music.
 
+## 5. Advocates Cafe - Community Hub
+
 Last but certainly not least is Advocates Cafe, a community-focused bar that serves as both a social space and a resource center for the LGBTQ+ community. This establishment is particularly welcoming to newcomers to Tokyo and offers information about local events, support groups, and resources. The bar hosts regular community events, including language exchange nights and cultural workshops. Advocates Cafe embodies the spirit of Nichome as a place where the LGBTQ+ community can come together, support each other, and celebrate diversity.
+
+## Tips for Visiting Nichome
 
 When visiting these bars, it's important to remember a few key points. First, while Japan is generally safe, it's always wise to be aware of your surroundings, especially late at night. Most bars in Nichome are cash-only, so make sure to bring enough yen. The area is also known for its cover charges, which typically range from 500 to 1,500 yen and often include a drink ticket. Don't be surprised if you're asked to pay a cover charge at the door - this is standard practice in the area.
 
+### Best Times to Visit
+
 The best time to visit Shinjuku Nichome is typically on weekends, when the area comes alive with energy. However, weekdays can offer a more relaxed experience, perfect for those who prefer quieter conversations. Most bars open around 7 or 8 PM and stay open until the early morning hours, with peak times usually between 10 PM and 2 AM.
 
+### Finding Your Perfect Spot
+
 One of the wonderful aspects of Nichome is its diversity. You'll find bars catering to different age groups, interests, and communities within the LGBTQ+ spectrum. Whether you're looking for a quiet drink, a night of dancing, or a place to meet new friends, there's something for everyone in this vibrant district.
+
+## Our Final Thoughts
 
 As someone who has called Tokyo home for many years, I can attest to the welcoming nature of Shinjuku Nichome's LGBTQ+ community. The bars mentioned here are just a starting point - there are countless other wonderful establishments waiting to be discovered. Each bar has its own unique character and community, contributing to the rich tapestry that makes Nichome such a special place.
 
@@ -109,21 +127,39 @@ For visitors planning their first trip to Nichome, I recommend starting with one
 Remember, Shinjuku Nichome is more than just a nightlife district - it's a community, a safe space, and a celebration of diversity. Whether you're a local or a visitor, you're sure to find warmth, acceptance, and unforgettable experiences in this vibrant corner of Tokyo.`,
             jp: `新宿二丁目は東京のLGBTQ+コミュニティの中心地で、わずか数ブロックに300以上のバーやクラブが集まっています。この活気あるエリアを何度も探索してきた者として、この地域で最高のLGBTQ+バーのおすすめを共有できることを嬉しく思います。
 
+## 1. Arty Farty - 伝説的な歓迎の場
+
 リストの最初は、30年以上にわたってLGBTQ+コミュニティを歓迎してきた伝説的なバー、Arty Fartyです。新宿駅から徒歩数分の場所にあるこの居心地の良い店は、新規客にも常連客にも最適な、温かく親しみやすい雰囲気を提供しています。バーには豊富なカクテルメニューがあり、シグネチャーの「Arty Farty Special」は必見です。スタッフは複数の言語を話すため、国際的な訪問者にもアクセスしやすくなっています。Arty Fartyを際立たせているのは、誰もが判断されることなく自分らしくいられる安全な空間を作るというコミットメントです。
+
+## 2. Aiiro Cafe - モダン＆スタイリッシュ
 
 次は、優れたドリンクと歓迎的な雰囲気を組み合わせたスタイリッシュなバー、Aiiro Cafeです。この店は特に若いLGBTQ+層やアライの間で人気があります。インテリアデザインはモダンでシックで、レインボーフラッグが誇らしげに飾られています。Aiiro Cafeは定期的にドラァグショーやテーマパーティーなどのイベントを開催し、東京のLGBTQ+ナイトライフ文化を体験するのに最適な場所です。フードメニューも注目に値し、創造的なカクテルと完璧に合う美味しいバースナックや軽食を提供しています。
 
+## 3. Bar Goldfinger - 親密で洗練された空間
+
 より親密な雰囲気を求める人には、Bar Goldfingerが洗練された体験を提供します。この小さなバーは量より質に焦点を当て、専門的に作られたカクテルと慎重に選ばれたスピリッツのセレクションを提供しています。雰囲気はリラックスしていて会話に適しており、デートや友人との時間に最適です。バーのオーナーは特に国際的な訪問者に歓迎的で、地元のLGBTQ+コミュニティとその歴史についての話を共有することがよくあります。
+
+## 4. Dragon Men - 夜通し踊ろう
 
 ダンスがお好みなら、Dragon Menが最適な場所です。このエネルギッシュなクラブは、広々としたダンスフロア、最新のサウンドシステム、定期的なDJパフォーマンスを特徴としています。クラブは多様な客層を引き付け、包括的な雰囲気で知られています。Dragon Menは週を通じてテーマナイトを開催し、ラテンナイトからテクノパーティーまで、常にエキサイティングな何かが起こっています。クラブには、音楽を楽しみながら社交を好む人のためのバーエリアもあります。
 
+## 5. Advocates Cafe - コミュニティの拠点
+
 最後に、コミュニティ重視のバー、Advocates Cafeがあります。この店は社交スペースとLGBTQ+コミュニティのリソースセンターの両方として機能しています。この店は特に東京に初めて来る人に歓迎的で、地元のイベント、サポートグループ、リソースに関する情報を提供しています。バーは定期的にコミュニティイベントを開催し、言語交換ナイトや文化ワークショップなどが含まれます。Advocates Cafeは、LGBTQ+コミュニティが集まり、お互いをサポートし、多様性を祝う場所としての二丁目の精神を体現しています。
+
+## 二丁目を訪れる際のヒント
 
 これらのバーを訪れる際は、いくつかの重要なポイントを覚えておくことが重要です。まず、日本は一般的に安全ですが、特に深夜は周囲に注意を払うことが常に賢明です。二丁目のほとんどのバーは現金のみなので、十分な円を持参してください。このエリアはカバーチャージでも知られており、通常500円から1,500円で、しばしばドリンクチケットが含まれます。ドアでカバーチャージを請求されても驚かないでください - これはこのエリアでは標準的な慣行です。
 
+### ベストな訪問時間
+
 新宿二丁目を訪れるのに最適な時期は通常週末で、エリアがエネルギーで活気づきます。ただし、平日はよりリラックスした体験を提供でき、静かな会話を好む人に最適です。ほとんどのバーは午後7時または8時頃に開店し、早朝まで営業し、ピークタイムは通常午後10時から午前2時の間です。
 
+### あなたにぴったりの場所を見つける
+
 二丁目の素晴らしい側面の一つは、その多様性です。LGBTQ+スペクトラム内の異なる年齢層、興味、コミュニティに対応するバーを見つけるでしょう。静かな飲み物、ダンスの夜、新しい友人と出会う場所を探しているかどうかにかかわらず、この活気ある地区には誰にとっても何かがあります。
+
+## 最後に
 
 何年も東京を故郷と呼んできた者として、新宿二丁目のLGBTQ+コミュニティの歓迎的な性質を証明できます。ここで言及したバーは出発点に過ぎません - 発見を待っている無数の他の素晴らしい店があります。各バーには独自の特徴とコミュニティがあり、二丁目を特別な場所にしている豊かなタペストリーに貢献しています。
 
@@ -159,29 +195,59 @@ Remember, Shinjuku Nichome is more than just a nightlife district - it's a commu
         content: {
             en: `When we decided to get married, there was never any doubt in our minds that Kyoto would be the perfect setting for our special day. As two people deeply connected to Japanese culture and each other, we wanted a wedding that would honor both tradition and our unique love story. What followed was an experience that exceeded all our expectations and created memories we'll cherish forever.
 
+## Planning Our Dream Wedding
+
 The planning process began six months before our wedding date. We knew we wanted something that felt authentic yet personal, traditional yet modern. Kyoto, with its thousands of temples, beautiful gardens, and rich cultural heritage, offered the perfect backdrop. We worked closely with local wedding planners who specialized in LGBTQ+ ceremonies, ensuring that every detail would reflect our values and create a safe, welcoming atmosphere for all our guests.
+
+## Choosing the Perfect Venue
 
 One of the first decisions we made was to incorporate both Shinto and modern elements into our ceremony. We chose a beautiful shrine in the Arashiyama district, surrounded by bamboo groves and traditional Japanese gardens. The setting was breathtaking - ancient stone paths, carefully maintained moss gardens, and the gentle sound of water features created an atmosphere of peace and tranquility that perfectly matched the significance of the day.
 
+## The Traditional Ceremony
+
 The ceremony itself was a beautiful blend of traditional Japanese wedding customs and personal touches that reflected our relationship. We wore traditional wedding kimonos, which were carefully selected to complement each other while honoring the rich history of Japanese textile art. The intricate patterns and colors told a story - mine featured cranes, symbolizing longevity and happiness, while my partner's featured cherry blossoms, representing the beauty and transience of life's precious moments.
+
+### A Supportive Shinto Priest
 
 Our ceremony was conducted by a Shinto priest who had experience with LGBTQ+ ceremonies and was genuinely supportive of our union. The traditional rituals, including the san-san-kudo (three-three-nine times) sake-sharing ceremony, took on special meaning as we performed them together. Each step felt significant, connecting us not just to each other, but to the generations of couples who had come before us in this sacred space.
 
+## The Reception at a Traditional Ryokan
+
 Following the ceremony, we held a reception at a traditional ryokan that had been converted into a modern event space while maintaining its historic charm. The venue featured tatami rooms, sliding paper doors, and a beautiful garden view that changed with the seasons. Our guests, who had traveled from around the world, were able to experience authentic Japanese hospitality while celebrating with us.
+
+### Kaiseki Cuisine Experience
 
 The reception menu was a carefully curated selection of kaiseki cuisine, Japan's most refined culinary tradition. Each course was not just food, but a work of art, beautifully presented and thoughtfully prepared. Our guests were particularly impressed by the seasonal ingredients and the way each dish told a story about Kyoto's culinary heritage. The meal was accompanied by premium sake, carefully selected to complement each course.
 
+## Capturing Memories Through Photography
+
 One of the most memorable aspects of our wedding was the photography session. We worked with a photographer who specialized in LGBTQ+ weddings and had a deep understanding of both traditional Japanese aesthetics and modern wedding photography. The result was a stunning collection of images that captured not just the events of the day, but the emotions, the atmosphere, and the love that filled every moment.
+
+### Iconic Kyoto Locations
 
 The photoshoot took us to several iconic Kyoto locations - the Arashiyama Bamboo Grove, Fushimi Inari Shrine with its thousands of torii gates, and the Philosopher's Path during cherry blossom season. Each location provided a unique backdrop that reflected different aspects of our relationship and our connection to Japan. The photographer's skill in capturing candid moments alongside traditional poses created a narrative that we'll treasure forever.
 
+## Community Support
+
 What made our wedding truly special was the support we received from the local community. From the shrine staff to the ryokan owners, from the photographers to the caterers, everyone we worked with was not just professional, but genuinely supportive of our union. This acceptance and celebration of our love made the day even more meaningful.
 
-For couples considering a wedding in Japan, we have several recommendations based on our experience. First, work with planners and vendors who have experience with LGBTQ+ ceremonies. While Japan is making progress in LGBTQ+ rights, it's important to work with people who understand and support your vision. We found that many vendors were not just willing, but enthusiastic about working with us once they understood what we were looking for.
+## Tips for Couples Planning a Wedding in Japan
+
+For couples considering a wedding in Japan, we have several recommendations based on our experience:
+
+### Work with LGBTQ+ Experienced Vendors
+
+First, work with planners and vendors who have experience with LGBTQ+ ceremonies. While Japan is making progress in LGBTQ+ rights, it's important to work with people who understand and support your vision. We found that many vendors were not just willing, but enthusiastic about working with us once they understood what we were looking for.
+
+### Embrace and Personalize Traditions
 
 Second, embrace the cultural elements while making them your own. Japanese wedding traditions are beautiful and meaningful, but they can be adapted to reflect your unique relationship. Don't be afraid to mix traditional and modern elements - our ceremony was a perfect example of how these can coexist harmoniously.
 
+### Choose the Right Season
+
 Third, consider the timing carefully. We chose spring for our wedding, which allowed us to incorporate cherry blossoms into our celebration. However, each season in Japan offers its own unique beauty - autumn leaves, winter snowscapes, summer festivals. Choose a time that resonates with you and your partner.
+
+## Our Final Reflections
 
 Finally, remember that a wedding is about celebrating love, regardless of the setting or traditions. While we were fortunate to have a beautiful traditional ceremony, what truly mattered was the commitment we made to each other and the love we shared with our friends and family.
 
@@ -190,29 +256,59 @@ Our wedding in Kyoto was more than just a ceremony - it was a celebration of lov
 Looking back on that day, we're filled with gratitude - for the beautiful setting, for the supportive community, for our amazing guests, and most of all, for each other. Our wedding in Kyoto wasn't just a day; it was the beginning of a new chapter in our lives, one that we'll continue to write together with love, respect, and a deep appreciation for the culture that brought us together.`,
             jp: `結婚を決めたとき、京都が私たちの特別な日に完璧な場所になることは、私たちの心の中に疑いの余地がありませんでした。日本の文化とお互いに深くつながっている2人として、伝統と私たちのユニークな愛の物語の両方を尊重する結婚式を望んでいました。その結果、すべての期待を超え、永遠に大切にする思い出を作る体験となりました。
 
+## 夢のウェディングを計画する
+
 計画プロセスは結婚式の6ヶ月前に始まりました。本格的でありながら個人的で、伝統的でありながら現代的な何かを望んでいました。何千もの寺院、美しい庭園、豊かな文化的遺産を持つ京都は、完璧な背景を提供しました。LGBTQ+式に特化した地元のウェディングプランナーと緊密に協力し、すべての詳細が私たちの価値観を反映し、すべてのゲストにとって安全で歓迎的な雰囲気を作ることを確保しました。
+
+## 完璧な会場選び
 
 最初の決定の一つは、神道と現代の要素の両方を式に組み込むことでした。嵐山地区の美しい神社を選び、竹林と伝統的な日本庭園に囲まれていました。設定は息を呑むほど美しく、古代の石の小道、慎重に維持された苔の庭、そして水の特徴の優しい音が、その日の重要性に完璧に一致する平和と静けさの雰囲気を作り出しました。
 
+## 伝統的な挙式
+
 式自体は、伝統的な日本の結婚式の習慣と、私たちの関係を反映した個人的なタッチの美しいブレンドでした。私たちは伝統的な結婚式の着物を着用し、日本の織物芸術の豊かな歴史を尊重しながら、お互いを補完するように慎重に選ばれました。複雑なパターンと色が物語を語りました - 私のものは長寿と幸福を象徴する鶴を特徴とし、パートナーのものは人生の貴重な瞬間の美しさと儚さを表す桜を特徴としていました。
+
+### 理解ある神道の司祭
 
 私たちの式は、LGBTQ+式の経験があり、私たちの結合を真に支持する神道の司祭によって行われました。三三九度の酒分けの儀式を含む伝統的な儀式は、私たちが一緒にそれらを実行したときに特別な意味を持ちました。各ステップは重要に感じられ、お互いだけでなく、この神聖な空間で私たちの前に来た何世代ものカップルに私たちを接続しました。
 
+## 伝統的な旅館でのレセプション
+
 式の後、私たちは伝統的な旅館でレセプションを開催しました。これは歴史的な魅力を維持しながら現代的なイベントスペースに変換されていました。会場には畳の部屋、引き戸、季節とともに変化する美しい庭の景色がありました。世界中から旅行してきたゲストは、私たちと一緒に祝いながら本格的な日本のおもてなしを体験できました。
+
+### 懐石料理の体験
 
 レセプションメニューは、日本で最も洗練された料理の伝統である懐石料理の慎重に選ばれたセレクションでした。各コースは単なる食べ物ではなく、美しく提示され、思慮深く準備された芸術作品でした。ゲストは特に季節の食材と各料理が京都の料理遺産について物語を語る方法に感銘を受けました。食事は各コースを補完するように慎重に選ばれたプレミアム日本酒と一緒に提供されました。
 
+## 写真で思い出を残す
+
 私たちの結婚式の最も記憶に残る側面の一つは、写真撮影セッションでした。私たちはLGBTQ+結婚式に特化し、伝統的な日本の美学と現代の結婚式の写真撮影の両方を深く理解している写真家と協力しました。結果は、その日の出来事だけでなく、感情、雰囲気、そしてあらゆる瞬間を満たした愛を捉えた素晴らしい画像のコレクションでした。
+
+### 象徴的な京都のロケーション
 
 写真撮影は私たちをいくつかの象徴的な京都の場所に連れて行きました - 嵐山竹林、何千もの鳥居がある伏見稲荷大社、そして桜の季節の哲学の道。各場所は、私たちの関係の異なる側面と日本への私たちのつながりを反映したユニークな背景を提供しました。伝統的なポーズと一緒に率直な瞬間を捉える写真家のスキルは、私たちが永遠に大切にする物語を作り出しました。
 
+## コミュニティのサポート
+
 私たちの結婚式を本当に特別にしたのは、地元コミュニティから受け取ったサポートでした。神社のスタッフから旅館のオーナーまで、写真家からケータリング業者まで、私たちが協力したすべての人が、単にプロフェッショナルであるだけでなく、私たちの結合を真に支持していました。この受容と私たちの愛の祝賀は、その日をさらに意味のあるものにしました。
 
-日本での結婚式を検討しているカップルには、私たちの経験に基づいていくつかの推奨事項があります。まず、LGBTQ+式の経験があるプランナーやベンダーと協力してください。日本はLGBTQ+の権利において進歩していますが、あなたのビジョンを理解し、支持する人々と協力することが重要です。多くのベンダーが、私たちが探しているものを理解した後、単に意欲的であるだけでなく、私たちと協力することに熱心であることがわかりました。
+## 日本でウェディングを計画するカップルへのアドバイス
+
+日本での結婚式を検討しているカップルには、私たちの経験に基づいていくつかの推奨事項があります：
+
+### LGBTQ+に理解のあるベンダーと協力する
+
+まず、LGBTQ+式の経験があるプランナーやベンダーと協力してください。日本はLGBTQ+の権利において進歩していますが、あなたのビジョンを理解し、支持する人々と協力することが重要です。多くのベンダーが、私たちが探しているものを理解した後、単に意欲的であるだけでなく、私たちと協力することに熱心であることがわかりました。
+
+### 伝統を受け入れ、自分たちらしくアレンジする
 
 第二に、それらを自分自身のものにしながら文化的要素を受け入れます。日本の結婚式の伝統は美しく意味がありますが、あなたのユニークな関係を反映するように適応できます。伝統的要素と現代的な要素を混ぜることを恐れないでください - 私たちの式は、これらが調和して共存できる方法の完璧な例でした。
 
+### 季節を選ぶ
+
 第三に、タイミングを慎重に検討してください。私たちは春を結婚式のために選び、桜を私たちの祝賀に組み込むことを可能にしました。しかし、日本の各季節は独自の美しさを提供します - 秋の紅葉、冬の雪景色、夏祭り。あなたとあなたのパートナーに響く時間を選んでください。
+
+## 最後に振り返って
 
 最後に、結婚式は設定や伝統に関係なく、愛を祝うことであることを覚えておいてください。私たちは美しい伝統的な式を持つことができましたが、本当に重要なのは、お互いに行ったコミットメントと、友人や家族と共有した愛でした。
 
@@ -250,47 +346,49 @@ Looking back on that day, we're filled with gratitude - for the beautiful settin
 
 We sat down with them to discuss their journey, their vision, and what drives them to create these meaningful experiences. What emerged was a conversation about passion, resilience, and the power of community.
 
-**Q: What inspired you to start Japan Pride Journeys?**
+## What inspired you to start Japan Pride Journeys?
 
-Taka: "For me, it was a combination of personal experience and recognizing a gap in the market. As someone who is part of the LGBTQ+ community and has lived in Japan for many years, I've seen firsthand how difficult it can be for LGBTQ+ travelers to find authentic, safe experiences. Many tour companies claim to be LGBTQ+ friendly, but they don't really understand what that means in practice."
+**Taka:** "For me, it was a combination of personal experience and recognizing a gap in the market. As someone who is part of the LGBTQ+ community and has lived in Japan for many years, I've seen firsthand how difficult it can be for LGBTQ+ travelers to find authentic, safe experiences. Many tour companies claim to be LGBTQ+ friendly, but they don't really understand what that means in practice."
 
-Ady: "I came to Japan as a traveler myself, and I experienced both the incredible beauty of this country and the challenges of navigating it as someone from the LGBTQ+ community. When Taka and I met and started talking about our shared vision, we realized we could create something special - a company that truly understands and serves our community."
+**Ady:** "I came to Japan as a traveler myself, and I experienced both the incredible beauty of this country and the challenges of navigating it as someone from the LGBTQ+ community. When Taka and I met and started talking about our shared vision, we realized we could create something special - a company that truly understands and serves our community."
 
-**Q: What makes Japan Pride Journeys different from other tour companies?**
+## What makes Japan Pride Journeys different from other tour companies?
 
-Taka: "First and foremost, we're part of the community. This isn't just a business opportunity for us - it's personal. We understand the concerns, the fears, and the hopes that LGBTQ+ travelers bring with them. We've been there. We know what it's like to wonder if a place is safe, to worry about holding hands in public, to want authentic experiences that don't feel tokenized."
+**Taka:** "First and foremost, we're part of the community. This isn't just a business opportunity for us - it's personal. We understand the concerns, the fears, and the hopes that LGBTQ+ travelers bring with them. We've been there. We know what it's like to wonder if a place is safe, to worry about holding hands in public, to want authentic experiences that don't feel tokenized."
 
-Ady: "We also work exclusively with guides who are either part of the LGBTQ+ community or strong allies who have been trained in LGBTQ+ sensitivity. This isn't something you can fake - either you understand our community or you don't. Our guides don't just show people around; they create connections, share stories, and help visitors feel truly welcomed."
+**Ady:** "We also work exclusively with guides who are either part of the LGBTQ+ community or strong allies who have been trained in LGBTQ+ sensitivity. This isn't something you can fake - either you understand our community or you don't. Our guides don't just show people around; they create connections, share stories, and help visitors feel truly welcomed."
 
-**Q: What have been your biggest challenges?**
+## What have been your biggest challenges?
 
-Taka: "The legal landscape is definitely a challenge. Same-sex marriage isn't recognized in Japan, which creates complications for couples traveling together. We have to be very careful about how we present our services and ensure that we're always operating within the law while still advocating for our community."
+**Taka:** "The legal landscape is definitely a challenge. Same-sex marriage isn't recognized in Japan, which creates complications for couples traveling together. We have to be very careful about how we present our services and ensure that we're always operating within the law while still advocating for our community."
 
-Ady: "There's also the challenge of changing perceptions. Many people in Japan are supportive of LGBTQ+ rights, but there's still a lot of misunderstanding and sometimes fear. We're working to change that, one tour at a time, by showing people that LGBTQ+ travelers are just like any other travelers - they want authentic experiences, they want to learn about culture, and they want to feel safe."
+**Ady:** "There's also the challenge of changing perceptions. Many people in Japan are supportive of LGBTQ+ rights, but there's still a lot of misunderstanding and sometimes fear. We're working to change that, one tour at a time, by showing people that LGBTQ+ travelers are just like any other travelers - they want authentic experiences, they want to learn about culture, and they want to feel safe."
 
-**Q: What are you most proud of?**
+## What are you most proud of?
 
-Taka: "I'm most proud of the community we've built. Not just our team, but the network of LGBTQ+ friendly businesses, venues, and individuals we've connected with across Japan. We're creating a map of safe spaces, and that's something that will benefit the community long after we're gone."
+**Taka:** "I'm most proud of the community we've built. Not just our team, but the network of LGBTQ+ friendly businesses, venues, and individuals we've connected with across Japan. We're creating a map of safe spaces, and that's something that will benefit the community long after we're gone."
 
-Ady: "For me, it's the stories we hear from our guests. When someone tells us that they finally felt safe enough to be themselves in Japan, or when a couple says our tour helped them have the wedding experience they'd always dreamed of - that's what keeps us going. We're not just running tours; we're changing lives."
+**Ady:** "For me, it's the stories we hear from our guests. When someone tells us that they finally felt safe enough to be themselves in Japan, or when a couple says our tour helped them have the wedding experience they'd always dreamed of - that's what keeps us going. We're not just running tours; we're changing lives."
 
-**Q: What's your vision for the future?**
+## What's your vision for the future?
 
-Taka: "We want Japan Pride Journeys to become the go-to resource for LGBTQ+ travelers to Japan. But more than that, we want to be part of the movement that makes Japan more welcoming for LGBTQ+ people, both visitors and residents. We're working on partnerships with hotels, restaurants, and cultural sites to create a network of truly LGBTQ+ friendly spaces."
+**Taka:** "We want Japan Pride Journeys to become the go-to resource for LGBTQ+ travelers to Japan. But more than that, we want to be part of the movement that makes Japan more welcoming for LGBTQ+ people, both visitors and residents. We're working on partnerships with hotels, restaurants, and cultural sites to create a network of truly LGBTQ+ friendly spaces."
 
-Ady: "We also want to expand our offerings. Right now we focus on tours, but we're developing wedding services, cultural immersion programs, and even language exchange programs that connect LGBTQ+ travelers with local community members. The goal is to create a comprehensive platform that serves every aspect of LGBTQ+ travel to Japan."
+**Ady:** "We also want to expand our offerings. Right now we focus on tours, but we're developing wedding services, cultural immersion programs, and even language exchange programs that connect LGBTQ+ travelers with local community members. The goal is to create a comprehensive platform that serves every aspect of LGBTQ+ travel to Japan."
 
-**Q: What advice would you give to LGBTQ+ travelers planning a trip to Japan?**
+## What advice would you give to LGBTQ+ travelers planning a trip to Japan?
 
-Taka: "Do your research, but don't let fear stop you. Japan is generally a very safe country, and while there are challenges, there's also a growing LGBTQ+ community and many allies. Connect with local LGBTQ+ organizations, use resources like our tours, and remember that you're not alone."
+**Taka:** "Do your research, but don't let fear stop you. Japan is generally a very safe country, and while there are challenges, there's also a growing LGBTQ+ community and many allies. Connect with local LGBTQ+ organizations, use resources like our tours, and remember that you're not alone."
 
-Ady: "Be respectful of the culture while being true to yourself. Japan has its own way of doing things, and understanding that will make your experience much richer. But don't feel like you have to hide who you are - there are safe spaces, there are welcoming people, and there are experiences waiting for you that will be truly transformative."
+**Ady:** "Be respectful of the culture while being true to yourself. Japan has its own way of doing things, and understanding that will make your experience much richer. But don't feel like you have to hide who you are - there are safe spaces, there are welcoming people, and there are experiences waiting for you that will be truly transformative."
 
-**Q: How can people support your mission?**
+## How can people support your mission?
 
-Taka: "The best way is to travel with us, of course! But even if you're not planning a trip, you can support LGBTQ+ friendly businesses in Japan, share our story, and help spread awareness. Every bit helps."
+**Taka:** "The best way is to travel with us, of course! But even if you're not planning a trip, you can support LGBTQ+ friendly businesses in Japan, share our story, and help spread awareness. Every bit helps."
 
-Ady: "And if you're in Japan or planning to visit, reach out to us. We're always looking to connect with the community, whether that's through tours, events, or just conversation. We're building something special here, and we want everyone to be part of it."
+**Ady:** "And if you're in Japan or planning to visit, reach out to us. We're always looking to connect with the community, whether that's through tours, events, or just conversation. We're building something special here, and we want everyone to be part of it."
+
+## Building a Movement
 
 As our conversation came to a close, it was clear that Taka and Ady aren't just running a business - they're building a movement. Their passion for creating safe, authentic experiences for the LGBTQ+ community is evident in everything they do, from the careful selection of guides to the thoughtful curation of tour experiences.
 
@@ -301,47 +399,49 @@ For LGBTQ+ travelers considering a trip to Japan, Taka and Ady's story offers bo
 
 私たちは彼らと座って、彼らの旅、ビジョン、そしてこれらの意味のある体験を作るために彼らを駆り立てるものについて話し合いました。現れたのは、情熱、回復力、そしてコミュニティの力についての会話でした。
 
-**Q: Japan Pride Journeysを始めるきっかけは何でしたか？**
+## Japan Pride Journeysを始めるきっかけは何でしたか？
 
-Taka: 「私にとって、それは個人的な経験と市場のギャップを認識することの組み合わせでした。LGBTQ+コミュニティの一員として、そして何年も日本に住んでいる者として、LGBTQ+旅行者が本格的で安全な体験を見つけることがどれほど難しいかを直接見てきました。多くのツアー会社がLGBTQ+フレンドリーであると主張していますが、実際にはそれが何を意味するのかを本当に理解していません。」
+**Taka:** 「私にとって、それは個人的な経験と市場のギャップを認識することの組み合わせでした。LGBTQ+コミュニティの一員として、そして何年も日本に住んでいる者として、LGBTQ+旅行者が本格的で安全な体験を見つけることがどれほど難しいかを直接見てきました。多くのツアー会社がLGBTQ+フレンドリーであると主張していますが、実際にはそれが何を意味するのかを本当に理解していません。」
 
-Ady: 「私自身も旅行者として日本に来ましたが、この国の信じられないほどの美しさと、LGBTQ+コミュニティの一員としてそれをナビゲートする挑戦の両方を経験しました。Takaと私が会って、私たちの共有されたビジョンについて話し始めたとき、私たちは特別な何かを作成できることに気づきました - 私たちのコミュニティを真に理解し、提供する会社。」
+**Ady:** 「私自身も旅行者として日本に来ましたが、この国の信じられないほどの美しさと、LGBTQ+コミュニティの一員としてそれをナビゲートする挑戦の両方を経験しました。Takaと私が会って、私たちの共有されたビジョンについて話し始めたとき、私たちは特別な何かを作成できることに気づきました - 私たちのコミュニティを真に理解し、提供する会社。」
 
-**Q: Japan Pride Journeysを他のツアー会社と区別するものは何ですか？**
+## Japan Pride Journeysを他のツアー会社と区別するものは何ですか？
 
-Taka: 「まず第一に、私たちはコミュニティの一部です。これは私たちにとって単なるビジネス機会ではありません - それは個人的なものです。私たちはLGBTQ+旅行者が持ってくる懸念、恐れ、希望を理解しています。私たちはそこにいました。場所が安全かどうかを疑問に思うこと、公共の場で手をつなぐことを心配すること、トークン化されていない本格的な体験を望むことがどのようなものかを知っています。」
+**Taka:** 「まず第一に、私たちはコミュニティの一部です。これは私たちにとって単なるビジネス機会ではありません - それは個人的なものです。私たちはLGBTQ+旅行者が持ってくる懸念、恐れ、希望を理解しています。私たちはそこにいました。場所が安全かどうかを疑問に思うこと、公共の場で手をつなぐことを心配すること、トークン化されていない本格的な体験を望むことがどのようなものかを知っています。」
 
-Ady: 「私たちはまた、LGBTQ+コミュニティの一部であるか、LGBTQ+感受性について訓練された強力なアライであるガイドと独占的に協力しています。これは偽造できるものではありません - あなたは私たちのコミュニティを理解しているか、そうでないかのどちらかです。私たちのガイドは人々を案内するだけではありません。彼らはつながりを作り、物語を共有し、訪問者が真に歓迎されていると感じるのを助けます。」
+**Ady:** 「私たちはまた、LGBTQ+コミュニティの一部であるか、LGBTQ+感受性について訓練された強力なアライであるガイドと独占的に協力しています。これは偽造できるものではありません - あなたは私たちのコミュニティを理解しているか、そうでないかのどちらかです。私たちのガイドは人々を案内するだけではありません。彼らはつながりを作り、物語を共有し、訪問者が真に歓迎されていると感じるのを助けます。」
 
-**Q: 最大の挑戦は何でしたか？**
+## 最大の挑戦は何でしたか？
 
-Taka: 「法的な状況は確かに挑戦です。同性婚は日本で認められていないため、一緒に旅行するカップルに複雑さを作り出します。私たちはサービスの提示方法に非常に注意し、コミュニティのために提唱しながら常に法律の範囲内で運営していることを確保する必要があります。」
+**Taka:** 「法的な状況は確かに挑戦です。同性婚は日本で認められていないため、一緒に旅行するカップルに複雑さを作り出します。私たちはサービスの提示方法に非常に注意し、コミュニティのために提唱しながら常に法律の範囲内で運営していることを確保する必要があります。」
 
-Ady: 「認識を変えるという挑戦もあります。日本の多くの人々はLGBTQ+の権利を支持していますが、まだ多くの誤解と時には恐れがあります。私たちは、LGBTQ+旅行者が他の旅行者と同じであることを示すことによって、一度に1つのツアーでそれを変えようとしています - 彼らは本格的な体験を望み、文化について学びたいと思い、安全を感じたいと思っています。」
+**Ady:** 「認識を変えるという挑戦もあります。日本の多くの人々はLGBTQ+の権利を支持していますが、まだ多くの誤解と時には恐れがあります。私たちは、LGBTQ+旅行者が他の旅行者と同じであることを示すことによって、一度に1つのツアーでそれを変えようとしています - 彼らは本格的な体験を望み、文化について学びたいと思い、安全を感じたいと思っています。」
 
-**Q: 最も誇りに思っていることは何ですか？**
+## 最も誇りに思っていることは何ですか？
 
-Taka: 「私が最も誇りに思っているのは、私たちが構築したコミュニティです。私たちのチームだけでなく、日本中でつながったLGBTQ+フレンドリーなビジネス、会場、個人のネットワークです。私たちは安全な空間の地図を作成しており、それは私たちがいなくなった後も長い間コミュニティに利益をもたらすものです。」
+**Taka:** 「私が最も誇りに思っているのは、私たちが構築したコミュニティです。私たちのチームだけでなく、日本中でつながったLGBTQ+フレンドリーなビジネス、会場、個人のネットワークです。私たちは安全な空間の地図を作成しており、それは私たちがいなくなった後も長い間コミュニティに利益をもたらすものです。」
 
-Ady: 「私にとって、それはゲストから聞く物語です。誰かが日本でついに自分らしくいられるほど安全だと感じたと私たちに言うとき、またはカップルが私たちのツアーが彼らが常に夢見ていたウェディング体験を手伝ったと言うとき - それが私たちを動かし続けるものです。私たちは単にツアーを運営しているのではありません。私たちは人生を変えています。」
+**Ady:** 「私にとって、それはゲストから聞く物語です。誰かが日本でついに自分らしくいられるほど安全だと感じたと私たちに言うとき、またはカップルが私たちのツアーが彼らが常に夢見ていたウェディング体験を手伝ったと言うとき - それが私たちを動かし続けるものです。私たちは単にツアーを運営しているのではありません。私たちは人生を変えています。」
 
-**Q: 将来のビジョンは何ですか？**
+## 将来のビジョンは何ですか？
 
-Taka: 「私たちはJapan Pride Journeysを日本へのLGBTQ+旅行者の主要なリソースにしたいと思っています。しかし、それ以上に、私たちは日本をLGBTQ+の人々、訪問者と居住者の両方にとってより歓迎的なものにする運動の一部になりたいと思っています。私たちはホテル、レストラン、文化遺産とのパートナーシップに取り組んで、真にLGBTQ+フレンドリーな空間のネットワークを作成しています。」
+**Taka:** 「私たちはJapan Pride Journeysを日本へのLGBTQ+旅行者の主要なリソースにしたいと思っています。しかし、それ以上に、私たちは日本をLGBTQ+の人々、訪問者と居住者の両方にとってより歓迎的なものにする運動の一部になりたいと思っています。私たちはホテル、レストラン、文化遺産とのパートナーシップに取り組んで、真にLGBTQ+フレンドリーな空間のネットワークを作成しています。」
 
-Ady: 「私たちはまた、提供を拡大したいと思っています。現在、私たちはツアーに焦点を当てていますが、ウェディングサービス、文化没入プログラム、そしてLGBTQ+旅行者を地元コミュニティメンバーとつなぐ言語交換プログラムさえ開発しています。目標は、日本へのLGBTQ+旅行のあらゆる側面に対応する包括的なプラットフォームを作成することです。」
+**Ady:** 「私たちはまた、提供を拡大したいと思っています。現在、私たちはツアーに焦点を当てていますが、ウェディングサービス、文化没入プログラム、そしてLGBTQ+旅行者を地元コミュニティメンバーとつなぐ言語交換プログラムさえ開発しています。目標は、日本へのLGBTQ+旅行のあらゆる側面に対応する包括的なプラットフォームを作成することです。」
 
-**Q: 日本への旅行を計画しているLGBTQ+旅行者にどのようなアドバイスをしますか？**
+## 日本への旅行を計画しているLGBTQ+旅行者にどのようなアドバイスをしますか？
 
-Taka: 「調査を行ってください。しかし、恐れに止められないでください。日本は一般的に非常に安全な国であり、挑戦がありますが、成長しているLGBTQ+コミュニティと多くのアライもあります。地元のLGBTQ+組織とつながり、私たちのツアーのようなリソースを使用し、あなたが一人ではないことを覚えておいてください。」
+**Taka:** 「調査を行ってください。しかし、恐れに止められないでください。日本は一般的に非常に安全な国であり、挑戦がありますが、成長しているLGBTQ+コミュニティと多くのアライもあります。地元のLGBTQ+組織とつながり、私たちのツアーのようなリソースを使用し、あなたが一人ではないことを覚えておいてください。」
 
-Ady: 「自分自身に忠実でありながら文化を尊重してください。日本には独自のやり方があり、それを理解することで、あなたの体験がはるかに豊かになります。しかし、あなたが誰であるかを隠す必要があると感じないでください - 安全な空間があり、歓迎的な人々がおり、真に変革的な体験があなたを待っています。」
+**Ady:** 「自分自身に忠実でありながら文化を尊重してください。日本には独自のやり方があり、それを理解することで、あなたの体験がはるかに豊かになります。しかし、あなたが誰であるかを隠す必要があると感じないでください - 安全な空間があり、歓迎的な人々がおり、真に変革的な体験があなたを待っています。」
 
-**Q: 人々はどのようにあなたの使命をサポートできますか？**
+## 人々はどのようにあなたの使命をサポートできますか？
 
-Taka: 「最良の方法は、もちろん私たちと一緒に旅行することです！しかし、旅行を計画していなくても、日本でLGBTQ+フレンドリーなビジネスをサポートし、私たちの物語を共有し、意識を広めるのを助けることができます。すべてが役立ちます。」
+**Taka:** 「最良の方法は、もちろん私たちと一緒に旅行することです！しかし、旅行を計画していなくても、日本でLGBTQ+フレンドリーなビジネスをサポートし、私たちの物語を共有し、意識を広めるのを助けることができます。すべてが役立ちます。」
 
-Ady: 「そして、あなたが日本にいるか、訪問を計画している場合は、私たちに連絡してください。私たちは常にコミュニティとつながることを探しています。それがツアー、イベント、または単なる会話を通じてであっても。私たちはここで特別な何かを構築しており、誰もがその一部になりたいと思っています。」
+**Ady:** 「そして、あなたが日本にいるか、訪問を計画している場合は、私たちに連絡してください。私たちは常にコミュニティとつながることを探しています。それがツアー、イベント、または単なる会話を通じてであっても。私たちはここで特別な何かを構築しており、誰もがその一部になりたいと思っています。」
+
+## ムーブメントの構築
 
 会話が終わりに近づいたとき、TakaとAdyが単にビジネスを運営しているのではなく、運動を構築していることは明らかでした。LGBTQ+コミュニティのための安全で本格的な体験を作るという彼らの情熱は、ガイドの慎重な選択からツアー体験の思慮深いキュレーションまで、彼らが行うすべてのことにおいて明らかです。
 
@@ -379,39 +479,71 @@ Japan Pride Journeysは単なるツアー会社以上のものを表していま
 
 After years of guiding LGBTQ+ travelers through Kyoto's spiritual landscape, I'm excited to share insights that will help you navigate these beautiful sites with confidence and respect. This guide focuses on temples and shrines that are particularly welcoming to all visitors, regardless of their background or identity.
 
+## Understanding Temple and Shrine Etiquette
+
 One of the most important things to understand about visiting temples and shrines in Japan is that these are places of worship and cultural significance. The LGBTQ+ community is generally welcomed at these sites, as Japanese religious institutions typically focus on spiritual practice rather than personal identity. However, understanding proper etiquette will enhance your experience and show respect for the local culture.
+
+## Fushimi Inari Shrine - The Iconic Gateway
 
 Let's start with Fushimi Inari Shrine, one of Kyoto's most iconic and LGBTQ+ friendly sites. This shrine, dedicated to Inari, the god of rice and business, is famous for its thousands of vermillion torii gates that create a stunning pathway up the mountain. The shrine is open 24 hours a day and welcomes visitors from all backgrounds. The atmosphere is inclusive and welcoming, with many international visitors and locals alike enjoying the peaceful walk through the gates.
 
 When visiting Fushimi Inari, you'll notice that it's a place where people come to pray for success in business and personal endeavors. The LGBTQ+ community is as welcome here as anyone else, and you'll often see diverse groups of visitors making their way up the mountain path. The shrine's staff are professional and welcoming to all visitors, focusing on helping people with their prayers and purchases rather than judging anyone's identity.
 
+## Kiyomizu-dera - Temple of Love and Views
+
 Another must-visit site is Kiyomizu-dera, a Buddhist temple that offers breathtaking views of Kyoto. This temple is particularly popular among LGBTQ+ travelers because of its welcoming atmosphere and the temple's focus on love and relationships. The temple's main hall features a stage that juts out over the hillside, offering panoramic views that are especially beautiful during cherry blossom season and autumn foliage.
+
+### Love Shrine for All
 
 Kiyomizu-dera has a special area dedicated to love and relationships, where visitors can pray for romantic success. This area is inclusive and welcoming to all, regardless of sexual orientation or gender identity. The temple's approach to love and relationships is universal, focusing on the spiritual aspects of connection rather than specific definitions of partnership.
 
+## Ryoan-ji - Zen Meditation Experience
+
 For those interested in Zen Buddhism, Ryoan-ji Temple offers a unique experience with its famous rock garden. This temple is known for its peaceful atmosphere and meditative spaces. LGBTQ+ visitors will find this temple particularly welcoming, as Zen Buddhism emphasizes personal spiritual practice over social categories. The temple's staff are respectful and professional, creating an environment where all visitors can engage in quiet contemplation.
+
+## Kinkaku-ji - The Golden Pavilion
 
 The Golden Pavilion, or Kinkaku-ji, is another popular destination that welcomes all visitors. While it can get crowded, the temple's stunning architecture and beautiful gardens make it worth the visit. The temple staff are professional and treat all visitors with equal respect, regardless of their background.
 
+## Visitor Guidelines for a Respectful Experience
+
 When visiting temples and shrines in Kyoto, there are some general guidelines that will help ensure a respectful and positive experience. First, remember that these are active places of worship. While photography is generally allowed in most areas, be mindful of signs indicating restricted areas and always be respectful of people who are praying.
+
+### Dress Code
 
 Dress modestly when visiting temples and shrines. While Japan is generally accepting of diverse fashion choices, showing respect through appropriate clothing is appreciated. This doesn't mean you need to dress conservatively - simply avoid overly revealing clothing and remove hats when entering buildings.
 
+### Purification Ritual
+
 The purification ritual at shrines is an important part of the experience. When you approach a shrine, you'll see a water basin with ladles. The ritual involves washing your hands and mouth before approaching the main hall. This is a spiritual practice, not a judgment of who you are - everyone participates in the same way, regardless of their identity.
+
+### Making Offerings and Prayers
 
 Making an offering and praying at a shrine is a personal experience. The standard practice involves throwing a coin (usually 5 or 10 yen) into the offering box, bowing twice, clapping twice, making a wish or prayer, and then bowing once more. This ritual is universal and welcoming to all, regardless of your background or beliefs.
 
+## Connecting with Universal Spiritual Themes
+
 One of the beautiful aspects of visiting Kyoto's temples and shrines as an LGBTQ+ traveler is the opportunity to connect with universal spiritual themes. Love, peace, gratitude, and personal growth are themes that resonate across all identities. These sites offer spaces for reflection and connection that transcend social categories.
+
+### For Couples
 
 For couples visiting together, many temples and shrines offer opportunities to purchase omamori (protective amulets) or ema (prayer plaques) together. These can be meaningful souvenirs and ways to commemorate your visit. The staff at these sites are professional and treat all couples with equal respect.
 
+## Special Events and Festivals
+
 If you're planning to visit during special events or festivals, you'll find that these celebrations are generally inclusive and welcoming. Festivals like the Gion Matsuri or the autumn temple illuminations attract diverse crowds, and LGBTQ+ visitors are as welcome as anyone else. These events offer wonderful opportunities to experience Japanese culture while feeling part of a larger community.
 
+## Deeper Spiritual Experiences
+
 For those interested in deeper spiritual experiences, many temples offer meditation sessions or cultural activities. These are typically open to all visitors and provide opportunities to engage more deeply with Buddhist or Shinto practices. The focus is on personal spiritual growth rather than social identity, making these experiences welcoming to LGBTQ+ participants.
+
+## Planning Your Visit
 
 One thing that sets Kyoto apart is the city's long history of cultural exchange and openness to visitors from around the world. This tradition of welcoming diverse visitors extends to the LGBTQ+ community, and you'll find that temple and shrine staff are accustomed to working with international visitors of all backgrounds.
 
 When planning your temple visits, consider the timing. Early morning visits can offer quieter, more contemplative experiences, while afternoon visits might be more social. Both have their merits, and the choice depends on what kind of experience you're seeking.
+
+## Final Thoughts
 
 Remember that visiting temples and shrines in Kyoto is about more than just seeing beautiful architecture - it's about connecting with Japan's spiritual traditions, finding moments of peace and reflection, and experiencing the universal themes that connect all humans. As an LGBTQ+ traveler, you have every right to participate in these experiences fully and authentically.
 
