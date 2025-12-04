@@ -123,7 +123,11 @@ const TeamSection = ({ title, subtitle, members, icon, accentColor, colorIndex }
 
 export const Team = () => {
     const { language } = useLanguage();
-    const t = content[language].team;
+    const t = (content[language] as { team?: typeof content.en.team }).team;
+
+    if (!t) {
+        return null;
+    }
 
     return (
         <section id="team" className="py-24 bg-secondary/20">
@@ -132,7 +136,7 @@ export const Team = () => {
                 <TeamSection
                     title={t.guides.title}
                     subtitle={t.guides.subtitle}
-                    members={t.guides.members}
+                    members={t.guides.members as TeamMember[]}
                     icon={<Users className="w-5 h-5 text-rose-600" />}
                     accentColor="bg-rose-100"
                     colorIndex={2}
@@ -142,7 +146,7 @@ export const Team = () => {
                 <TeamSection
                     title={t.photographers.title}
                     subtitle={t.photographers.subtitle}
-                    members={t.photographers.members}
+                    members={t.photographers.members as TeamMember[]}
                     icon={<Camera className="w-5 h-5 text-sky-600" />}
                     accentColor="bg-sky-100"
                     colorIndex={3}
