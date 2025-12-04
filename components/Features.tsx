@@ -6,6 +6,14 @@ import { content } from "@/lib/data";
 import { motion } from "framer-motion";
 import { SectionHeader } from "@/components/ui/SectionHeader";
 
+// パステルカラーのアクセント（各柱に対応）
+const pillarColors = [
+    "bg-rose-300",
+    "bg-amber-300",
+    "bg-emerald-300",
+    "bg-sky-300",
+];
+
 export const Features = () => {
     const { language } = useLanguage();
     const t = content[language].features;
@@ -28,17 +36,26 @@ export const Features = () => {
                             whileInView={{ opacity: 1, y: 0 }}
                             viewport={{ once: true }}
                             transition={{ duration: 0.5, delay: index * 0.1 }}
-                            className="bg-white p-8 rounded-sm shadow-sm hover:shadow-md transition-shadow duration-300 flex flex-col items-center text-center"
+                            className="bg-white rounded-sm shadow-sm hover:shadow-md transition-shadow duration-300 flex flex-col items-center text-center overflow-hidden"
                         >
-                            <div className="w-12 h-12 bg-primary/5 rounded-full flex items-center justify-center mb-6 text-primary">
-                                <item.icon className="w-6 h-6" />
+                            {/* カテゴリラベル（カードの上部） */}
+                            <div className={`w-full py-3 ${pillarColors[index]}`}>
+                                <span className="text-base font-bold tracking-wider text-white/90">
+                                    {item.category}
+                                </span>
                             </div>
-                            <h3 className="text-xl font-serif font-semibold mb-4 text-foreground">
-                                {item.title}
-                            </h3>
-                            <p className="text-muted-foreground text-sm leading-relaxed">
-                                {item.description}
-                            </p>
+                            
+                            <div className="p-8 flex flex-col items-center">
+                                <div className="w-12 h-12 bg-primary/5 rounded-full flex items-center justify-center mb-6 text-primary">
+                                    <item.icon className="w-6 h-6" />
+                                </div>
+                                <h3 className="text-xl font-serif font-semibold mb-4 text-foreground">
+                                    {item.title}
+                                </h3>
+                                <p className="text-muted-foreground text-sm leading-relaxed">
+                                    {item.description}
+                                </p>
+                            </div>
                         </motion.div>
                     ))}
                 </div>

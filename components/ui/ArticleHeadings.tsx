@@ -79,3 +79,4 @@ export const ArticleH4 = ({ children, className = "" }: HeadingProps) => (
  * ArticleHeadingsのエクスポート
  */
 export { PRIDE_COLORS };
+

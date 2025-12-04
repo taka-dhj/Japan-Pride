@@ -230,3 +230,4 @@ export function BlogDetailClient({ post }: BlogDetailClientProps) {
         </div>
     );
 }
+

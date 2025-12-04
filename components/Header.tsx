@@ -26,8 +26,10 @@ export const Header = () => {
 
     const navLinks = [
         { name: t.home, href: "/#hero" },
-        { name: t.tours, href: "/#tours" },
         { name: t.about, href: "/#intro" },
+        { name: t.tours, href: "/#tours" },
+        { name: t.guides, href: "/#team" },
+        { name: t.photo, href: "/#team" },
         { name: t.wedding, href: "/#wedding" },
         { name: t.blog, href: "/blog" },
         { name: t.contact, href: "#", isContact: true },

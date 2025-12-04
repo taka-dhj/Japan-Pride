@@ -4,8 +4,10 @@ export const content = {
     en: {
         nav: {
             home: "Home",
-            tours: "Tours",
             about: "About Us",
+            tours: "Tours",
+            guides: "Guides",
+            photo: "Photo",
             wedding: "Wedding",
             blog: "Blog",
             contact: "Contact",
@@ -25,23 +27,28 @@ export const content = {
         features: {
             subtitle: "Why Choose Us",
             title: "Why Choose Japan Pride Journeys?",
+            pillarsLabel: "Our 4 Pillars",
             items: [
                 {
+                    category: "Guide",
                     title: "LGBTQ+ Native Guides",
                     description: "Our guides are part of the community or strong allies, ensuring a safe and welcoming environment.",
                     icon: Shield,
                 },
                 {
+                    category: "Photography",
                     title: "Professional Photography",
                     description: "Capture your memories with our professional photography service included in select tours.",
                     icon: Camera,
                 },
                 {
+                    category: "Wedding",
                     title: "One-Stop Wedding",
                     description: "Celebrate your love with a traditional or modern ceremony, fully arranged by us.",
                     icon: Heart,
                 },
                 {
+                    category: "Tour",
                     title: "Local Community Access",
                     description: "Exclusive access to local LGBTQ+ bars, events, and communities.",
                     icon: MapPin,
@@ -515,6 +522,62 @@ export const content = {
             ],
             cta: "View Details & Book",
         },
+        team: {
+            guides: {
+                subtitle: "Our Guides",
+                title: "Meet Your Guides",
+                members: [
+                    {
+                        name: "Ady",
+                        role: "Lead Guide",
+                        image: "/photo/t-a/IMG_0326.JPG",
+                        bio: "Born and raised in the Philippines, Ady has called Japan home for over 10 years. His warm personality and deep knowledge of Japanese culture make every tour memorable.",
+                        tags: ["Friendly", "Cultural Expert", "Multilingual"],
+                    },
+                    {
+                        name: "Taka",
+                        role: "Co-Founder & Guide",
+                        image: "/photo/t-a/IMG_1365.JPG",
+                        bio: "A Tokyo native with a passion for connecting people. Taka's insider knowledge of Japan's LGBTQ+ scene ensures authentic and safe experiences.",
+                        tags: ["Local Expert", "Community Connector", "Adventurous"],
+                    },
+                    {
+                        name: "Sho",
+                        role: "Osaka Guide",
+                        image: "/photo/t-a/IMG_6210.JPG",
+                        bio: "Sho brings the vibrant energy of Osaka to every tour. His humor and hospitality reflect the welcoming spirit of Japan's kitchen.",
+                        tags: ["Energetic", "Foodie", "Fun-loving"],
+                    },
+                ],
+            },
+            photographers: {
+                subtitle: "Our Photographers",
+                title: "Capture Your Memories",
+                members: [
+                    {
+                        name: "Steve",
+                        role: "Lead Photographer",
+                        image: "https://images.pexels.com/photos/4987584/pexels-photo-4987584.jpeg?auto=compress&cs=tinysrgb&w=800",
+                        bio: "With over 15 years of experience, Steve specializes in candid moments that tell your unique story. His eye for detail captures the essence of your journey.",
+                        tags: ["Portrait Specialist", "Storyteller", "Patient"],
+                    },
+                    {
+                        name: "Hiromi",
+                        role: "Wedding Photographer",
+                        image: "https://images.pexels.com/photos/34992257/pexels-photo-34992257.jpeg?auto=compress&cs=tinysrgb&w=800",
+                        bio: "Hiromi's artistic vision transforms wedding moments into timeless art. She brings a gentle, intuitive approach to every ceremony.",
+                        tags: ["Artistic", "Romantic", "Detail-oriented"],
+                    },
+                    {
+                        name: "Takeshi",
+                        role: "Travel Photographer",
+                        image: "https://images.pexels.com/photos/3062547/pexels-photo-3062547.jpeg?auto=compress&cs=tinysrgb&w=800",
+                        bio: "Takeshi's dynamic style captures the excitement of travel. From street scenes to landscapes, he finds beauty in every corner of Japan.",
+                        tags: ["Dynamic", "Creative", "Adventurous"],
+                    },
+                ],
+            },
+        },
         wedding: {
             subtitle: "Eternal Moments",
             title: "Celebrate Your Love in Japan",
@@ -569,8 +632,10 @@ export const content = {
     jp: {
         nav: {
             home: "ホーム",
-            tours: "ツアー",
             about: "私たちについて",
+            tours: "ツアー",
+            guides: "ガイド",
+            photo: "フォト",
             wedding: "ウェディング",
             blog: "ブログ",
             contact: "お問い合わせ",
@@ -590,23 +655,28 @@ export const content = {
         features: {
             subtitle: "選ばれる理由",
             title: "Japan Pride Journeysが選ばれる理由",
+            pillarsLabel: "4つの柱",
             items: [
                 {
+                    category: "ガイド",
                     title: "LGBTQ+当事者・アライのガイド",
                     description: "ガイドは全員コミュニティの一員または理解者。安心して旅を楽しめます。",
                     icon: Shield,
                 },
                 {
+                    category: "撮影",
                     title: "プロフェッショナル撮影",
                     description: "旅の思い出を美しく残す、プロカメラマンによる撮影サービス。",
                     icon: Camera,
                 },
                 {
+                    category: "ウェディング",
                     title: "ワンストップ・ウェディング",
                     description: "ひらまつとの提携による、本格的な挙式とフォトウェディング。",
                     icon: Heart,
                 },
                 {
+                    category: "ツアー",
                     title: "ローカルコミュニティへのアクセス",
                     description: "観光客だけでは入りにくい、現地のバーやイベントへご案内します。",
                     icon: MapPin,
@@ -1078,6 +1148,62 @@ export const content = {
                 },
             ],
             cta: "詳細を見る・予約",
+        },
+        team: {
+            guides: {
+                subtitle: "ガイド紹介",
+                title: "あなたの旅をサポートするガイド",
+                members: [
+                    {
+                        name: "Ady",
+                        role: "リードガイド",
+                        image: "/photo/t-a/IMG_0326.JPG",
+                        bio: "フィリピン出身、日本在住10年以上。温かい人柄と日本文化への深い理解で、忘れられない旅をお届けします。",
+                        tags: ["フレンドリー", "文化エキスパート", "多言語対応"],
+                    },
+                    {
+                        name: "Taka",
+                        role: "共同創業者 & ガイド",
+                        image: "/photo/t-a/IMG_1365.JPG",
+                        bio: "東京生まれ。人と人を繋ぐことに情熱を注ぐ。日本のLGBTQ+シーンに精通し、本物で安全な体験を提供します。",
+                        tags: ["ローカルエキスパート", "コミュニティ通", "冒険好き"],
+                    },
+                    {
+                        name: "Sho",
+                        role: "大阪ガイド",
+                        image: "/photo/t-a/IMG_6210.JPG",
+                        bio: "大阪の活気をツアーにお届け。ユーモアとおもてなしの心で、日本の台所の温かさを体現します。",
+                        tags: ["エネルギッシュ", "グルメ通", "陽気"],
+                    },
+                ],
+            },
+            photographers: {
+                subtitle: "フォトグラファー紹介",
+                title: "思い出を写真に残す",
+                members: [
+                    {
+                        name: "Steve",
+                        role: "リードフォトグラファー",
+                        image: "https://images.pexels.com/photos/4987584/pexels-photo-4987584.jpeg?auto=compress&cs=tinysrgb&w=800",
+                        bio: "15年以上の経験を持ち、あなただけのストーリーを語る自然な瞬間を専門としています。細部へのこだわりで旅の本質を捉えます。",
+                        tags: ["ポートレート専門", "ストーリーテラー", "忍耐強い"],
+                    },
+                    {
+                        name: "Hiromi",
+                        role: "ウェディングフォトグラファー",
+                        image: "https://images.pexels.com/photos/34992257/pexels-photo-34992257.jpeg?auto=compress&cs=tinysrgb&w=800",
+                        bio: "芸術的なビジョンでウェディングの瞬間を永遠のアートに。優しく直感的なアプローチで全てのセレモニーに臨みます。",
+                        tags: ["アーティスティック", "ロマンチック", "細部にこだわる"],
+                    },
+                    {
+                        name: "Takeshi",
+                        role: "トラベルフォトグラファー",
+                        image: "https://images.pexels.com/photos/3062547/pexels-photo-3062547.jpeg?auto=compress&cs=tinysrgb&w=800",
+                        bio: "ダイナミックなスタイルで旅の興奮を捉えます。ストリートシーンから風景まで、日本のあらゆる場所に美を見出します。",
+                        tags: ["ダイナミック", "クリエイティブ", "冒険好き"],
+                    },
+                ],
+            },
         },
         wedding: {
             subtitle: "永遠の瞬間",
