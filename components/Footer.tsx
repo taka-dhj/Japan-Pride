@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
 import { useLanguage } from "@/context/LanguageContext";
 import { useContactModal } from "@/context/ContactModalContext";
 import { content } from "@/lib/data";
@@ -55,7 +56,16 @@ export const Footer = () => {
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12 mb-8">
                         {/* Left Column - Brand */}
                         <div>
-                            <h3 className="text-2xl font-serif font-bold mb-4">Japan Pride Journeys</h3>
+                            <div className="flex items-center gap-3 mb-4">
+                                <Image 
+                                    src="/logo.png" 
+                                    alt="Japan Pride Journeys Logo" 
+                                    width={48} 
+                                    height={48} 
+                                    className="object-contain"
+                                />
+                                <h3 className="text-2xl font-serif font-bold">Japan Pride Journeys</h3>
+                            </div>
                             <p className="text-white/70 text-sm leading-relaxed">
                                 {language === "en"
                                     ? "Authentic, Safe, and Unforgettable Journeys curated for the LGBTQ+ Community."

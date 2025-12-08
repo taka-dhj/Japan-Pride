@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[89778,["/_next/static/chunks/16323b9475b3af72.js","/_next/static/chunks/1c47c391113e9222.js","/_next/static/chunks/c64b732a01fbaa8b.js","/_next/static/chunks/2aeac92579e59d89.js"],"TourDetailClient"]
+2:I[89778,["/_next/static/chunks/64fbb7b584cfa55b.js","/_next/static/chunks/06ad70a8b78a4b77.js","/_next/static/chunks/817c143d9c6f04d7.js","/_next/static/chunks/e26799d5c9b68395.js","/_next/static/chunks/2aeac92579e59d89.js"],"TourDetailClient"]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"tcyUwSWyg0er57z5N0f0J","rsc":["$","$1","c",{"children":[["$","$L2",null,{"tourId":"japan-golden-route"}],[["$","script","script-0",{"src":"/_next/static/chunks/1c47c391113e9222.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/c64b732a01fbaa8b.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/2aeac92579e59d89.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"YIp7HHeBFH18O_OlMQQzA","rsc":["$","$1","c",{"children":[["$","$L2",null,{"tourId":"japan-golden-route"}],[["$","script","script-0",{"src":"/_next/static/chunks/817c143d9c6f04d7.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/e26799d5c9b68395.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/2aeac92579e59d89.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null

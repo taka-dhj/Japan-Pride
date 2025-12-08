@@ -23,6 +23,10 @@ const pinyon = Pinyon_Script({
 export const metadata: Metadata = {
   title: "Japan Pride Journeys | LGBTQ+ Inbound Tours",
   description: "Authentic, Safe, and Unforgettable Journeys curated for the LGBTQ+ Community in Japan.",
+  icons: {
+    icon: "/logo.png",
+    apple: "/logo.png",
+  },
 };
 
 export default function RootLayout({

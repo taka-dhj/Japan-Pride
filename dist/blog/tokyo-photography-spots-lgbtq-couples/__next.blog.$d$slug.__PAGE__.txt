@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[21752,["/_next/static/chunks/16323b9475b3af72.js","/_next/static/chunks/991a4b47d86dd688.js","/_next/static/chunks/15e97b84007b5ea5.js","/_next/static/chunks/27b3135442311e67.js"],"BlogDetailClient"]
-9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
-a:"$Sreact.suspense"
+2:I[21752,["/_next/static/chunks/64fbb7b584cfa55b.js","/_next/static/chunks/06ad70a8b78a4b77.js","/_next/static/chunks/3a1c4e95fddab617.js","/_next/static/chunks/904ddfb772463d45.js","/_next/static/chunks/d604fd8ee136a554.js","/_next/static/chunks/4291f2edbce7e217.js"],"BlogDetailClient"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
 3:T1bf9,Tokyo is a photographer's paradise, offering countless stunning locations perfect for capturing memories. For LGBTQ+ couples visiting Japan's capital, finding beautiful and welcoming photography spots can be an important part of creating lasting memories of your journey together. Having photographed countless couples throughout Tokyo, I'm excited to share the best locations that are not only beautiful but also welcoming and comfortable for LGBTQ+ couples.
 
 One of the most iconic photography locations in Tokyo is the Shibuya Scramble Crossing. This famous intersection offers a perfect backdrop for dynamic, energetic photos that capture the essence of Tokyo's urban energy. The area is very LGBTQ+ friendly, with diverse crowds and a welcoming atmosphere. Early morning or late evening visits offer the best lighting and fewer crowds, making it easier to get the perfect shot.
@@ -70,9 +70,10 @@ The key to great couple photography in Tokyo is finding locations where you feel
 
 最高の写真は、快適で本物であることから来ることを覚えておいてください。東京は無数の美しい場所を提供しますが、最も重要な要素は、自分らしくいるのに十分な快適さを感じることです。都市の多様で歓迎的な雰囲気は、LGBTQ+カップルが写真を通じて美しく本物の思い出を作ることを可能にします。
 
-東京での素晴らしいカップルの写真の鍵は、自分らしくいることに快適さを感じる場所を見つけることです。都市は無数の美しいスポットを提供します。伝統的な庭園から現代的な展望台まで、静かな近隣から活気ある通りまで。少しの計画と適切な場所で、何年も大切にする美しい思い出を確実に捉えることでしょう。0:{"buildId":"tcyUwSWyg0er57z5N0f0J","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"9","slug":"tokyo-photography-spots-lgbtq-couples","title":{"en":"Tokyo Photography Spots for LGBTQ+ Couples","jp":"LGBTQ+カップルのための東京の写真スポット"},"excerpt":{"en":"Discover the most beautiful and LGBTQ+ friendly photography locations in Tokyo. Perfect spots for couples to capture their memories in Japan's capital.","jp":"東京で最も美しくLGBTQ+フレンドリーな写真の場所を発見してください。カップルが日本の首都で思い出を捉えるのに最適なスポット。"},"content":{"en":"$3","jp":"$4"},"date":"2023-02-14","image":"/photo/t-a/IMG_6210.JPG","tags":["photography","tokyo","lgbtq-friendly","tips"],"author":{"name":{"en":"Taka & Ady","jp":"Taka & Ady"},"role":{"en":"Co-Founders & Photographers","jp":"共同創業者 & 写真家"}}}}],["$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
-5:["$","script","script-0",{"src":"/_next/static/chunks/991a4b47d86dd688.js","async":true}]
-6:["$","script","script-1",{"src":"/_next/static/chunks/15e97b84007b5ea5.js","async":true}]
-7:["$","script","script-2",{"src":"/_next/static/chunks/27b3135442311e67.js","async":true}]
-8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
-b:null
+東京での素晴らしいカップルの写真の鍵は、自分らしくいることに快適さを感じる場所を見つけることです。都市は無数の美しいスポットを提供します。伝統的な庭園から現代的な展望台まで、静かな近隣から活気ある通りまで。少しの計画と適切な場所で、何年も大切にする美しい思い出を確実に捉えることでしょう。0:{"buildId":"YIp7HHeBFH18O_OlMQQzA","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"9","slug":"tokyo-photography-spots-lgbtq-couples","title":{"en":"Tokyo Photography Spots for LGBTQ+ Couples","jp":"LGBTQ+カップルのための東京の写真スポット"},"excerpt":{"en":"Discover the most beautiful and LGBTQ+ friendly photography locations in Tokyo. Perfect spots for couples to capture their memories in Japan's capital.","jp":"東京で最も美しくLGBTQ+フレンドリーな写真の場所を発見してください。カップルが日本の首都で思い出を捉えるのに最適なスポット。"},"content":{"en":"$3","jp":"$4"},"date":"2023-02-14","image":"/photo/t-a/IMG_6210.JPG","tags":["photography","tokyo","lgbtq-friendly","tips"],"author":{"name":{"en":"Taka & Ady","jp":"Taka & Ady"},"role":{"en":"Co-Founders & Photographers","jp":"共同創業者 & 写真家"}}}}],["$L5","$L6","$L7","$L8"],"$L9"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/3a1c4e95fddab617.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/904ddfb772463d45.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/d604fd8ee136a554.js","async":true}]
+8:["$","script","script-3",{"src":"/_next/static/chunks/4291f2edbce7e217.js","async":true}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

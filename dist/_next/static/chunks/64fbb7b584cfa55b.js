@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,96923,r=>{"use strict";var i=r.i(43476),e=r.i(17139),o=r.i(24318);function t({children:r}){return(0,i.jsx)(e.LanguageProvider,{children:(0,i.jsx)(o.ContactModalProvider,{children:r})})}r.s(["Providers",()=>t])}]);

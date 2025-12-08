@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[21752,["/_next/static/chunks/16323b9475b3af72.js","/_next/static/chunks/991a4b47d86dd688.js","/_next/static/chunks/15e97b84007b5ea5.js","/_next/static/chunks/27b3135442311e67.js"],"BlogDetailClient"]
-9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
-a:"$Sreact.suspense"
+2:I[21752,["/_next/static/chunks/64fbb7b584cfa55b.js","/_next/static/chunks/06ad70a8b78a4b77.js","/_next/static/chunks/3a1c4e95fddab617.js","/_next/static/chunks/904ddfb772463d45.js","/_next/static/chunks/d604fd8ee136a554.js","/_next/static/chunks/4291f2edbce7e217.js"],"BlogDetailClient"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
 3:T1b95,Shibuya is synonymous with Tokyo's cutting-edge culture, fashion, and nightlife. While most visitors know it for the famous Shibuya Scramble Crossing and the Hachiko statue, this vibrant district offers much more, especially for LGBTQ+ travelers seeking authentic nightlife experiences. As someone who has spent countless nights exploring Shibuya's diverse entertainment scene, I'm excited to share insights that will help you discover the best LGBTQ+ friendly venues in this dynamic area.
 
 Shibuya's LGBTQ+ nightlife scene is distinct from Shinjuku Nichome, offering a more mixed and diverse atmosphere. While Nichome is the traditional LGBTQ+ district, Shibuya attracts a younger, more international crowd that includes LGBTQ+ individuals and allies. This creates a unique environment where you can enjoy nightlife without feeling confined to a specific area.
@@ -78,9 +78,10 @@ The key to enjoying Shibuya's LGBTQ+ nightlife is to be open, respectful, and yo
 
 渋谷のナイトライフは、単なるバーやクラブ以上のものであることを覚えておいてください - それは東京の文化を体験し、新しい人々と会い、思い出を作ることです。LGBTQ+旅行者として、あなたはこれらの体験に完全に参加し、東京のナイトライフを本質的かつ安全に楽しむあらゆる権利を持っています。
 
-渋谷のLGBTQ+ナイトライフを楽しむ鍵は、オープンで、敬意を持ち、自分自身であることです。エリアの多様で包括的な雰囲気は、LGBTQ+旅行者にとって歓迎的な場所を作り出し、少しの計画と冒険的な精神で、東京で最もダイナミックな地区の一つで忘れられない夜を過ごすことでしょう。0:{"buildId":"tcyUwSWyg0er57z5N0f0J","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"5","slug":"tokyo-shibuya-scramble-lgbtq-nightlife","title":{"en":"Beyond Shibuya Scramble: LGBTQ+ Nightlife in Tokyo's Trendiest District","jp":"渋谷スクランブルを超えて：東京の最もトレンディな地区でのLGBTQ+ナイトライフ"},"excerpt":{"en":"Discover the vibrant LGBTQ+ nightlife scene in Shibuya, Tokyo's fashion and entertainment hub. From hidden bars to popular clubs, explore the diverse nightlife options.","jp":"東京のファッションとエンターテインメントの中心地である渋谷の活気あるLGBTQ+ナイトライフシーンを発見してください。隠れたバーから人気のクラブまで、多様なナイトライフオプションを探索します。"},"content":{"en":"$3","jp":"$4"},"date":"2023-06-15","image":"/photo/t-a/IMG_1814.JPG","tags":["tokyo","nightlife","lgbtq-friendly","travel-guide","community"],"author":{"name":{"en":"Taka & Ady","jp":"Taka & Ady"},"role":{"en":"Co-Founders & Guides","jp":"共同創業者 & ガイド"}}}}],["$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
-5:["$","script","script-0",{"src":"/_next/static/chunks/991a4b47d86dd688.js","async":true}]
-6:["$","script","script-1",{"src":"/_next/static/chunks/15e97b84007b5ea5.js","async":true}]
-7:["$","script","script-2",{"src":"/_next/static/chunks/27b3135442311e67.js","async":true}]
-8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
-b:null
+渋谷のLGBTQ+ナイトライフを楽しむ鍵は、オープンで、敬意を持ち、自分自身であることです。エリアの多様で包括的な雰囲気は、LGBTQ+旅行者にとって歓迎的な場所を作り出し、少しの計画と冒険的な精神で、東京で最もダイナミックな地区の一つで忘れられない夜を過ごすことでしょう。0:{"buildId":"YIp7HHeBFH18O_OlMQQzA","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"5","slug":"tokyo-shibuya-scramble-lgbtq-nightlife","title":{"en":"Beyond Shibuya Scramble: LGBTQ+ Nightlife in Tokyo's Trendiest District","jp":"渋谷スクランブルを超えて：東京の最もトレンディな地区でのLGBTQ+ナイトライフ"},"excerpt":{"en":"Discover the vibrant LGBTQ+ nightlife scene in Shibuya, Tokyo's fashion and entertainment hub. From hidden bars to popular clubs, explore the diverse nightlife options.","jp":"東京のファッションとエンターテインメントの中心地である渋谷の活気あるLGBTQ+ナイトライフシーンを発見してください。隠れたバーから人気のクラブまで、多様なナイトライフオプションを探索します。"},"content":{"en":"$3","jp":"$4"},"date":"2023-06-15","image":"/photo/t-a/IMG_1814.JPG","tags":["tokyo","nightlife","lgbtq-friendly","travel-guide","community"],"author":{"name":{"en":"Taka & Ady","jp":"Taka & Ady"},"role":{"en":"Co-Founders & Guides","jp":"共同創業者 & ガイド"}}}}],["$L5","$L6","$L7","$L8"],"$L9"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/3a1c4e95fddab617.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/904ddfb772463d45.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/d604fd8ee136a554.js","async":true}]
+8:["$","script","script-3",{"src":"/_next/static/chunks/4291f2edbce7e217.js","async":true}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

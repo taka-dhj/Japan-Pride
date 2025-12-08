@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { useLanguage } from "@/context/LanguageContext";
 import { useContactModal } from "@/context/ContactModalContext";
 import { content } from "@/lib/data";
@@ -49,7 +50,14 @@ export const Header = () => {
             }}
         >
             <div className="container mx-auto px-6 py-4 flex justify-between items-center min-h-[64px]">
-                <Link href="/" className="text-2xl font-serif font-bold tracking-wider text-foreground">
+                <Link href="/" className="flex items-center gap-3 text-2xl font-serif font-bold tracking-wider text-foreground">
+                    <Image 
+                        src="/logo.png" 
+                        alt="Japan Pride Journeys Logo" 
+                        width={40} 
+                        height={40} 
+                        className="object-contain"
+                    />
                     Japan Pride Journeys
                 </Link>
 

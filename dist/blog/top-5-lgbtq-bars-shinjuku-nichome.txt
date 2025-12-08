@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[96923,["/_next/static/chunks/16323b9475b3af72.js"],"Providers"]
+2:I[96923,["/_next/static/chunks/64fbb7b584cfa55b.js","/_next/static/chunks/06ad70a8b78a4b77.js"],"Providers"]
 3:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
 4:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
 6:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
@@ -7,51 +7,87 @@
 9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
 b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
 d:I[68027,[],"default"]
-:HL["/_next/static/chunks/7ea2a6d55266a9e2.css","style"]
+:HL["/_next/static/chunks/303883fc0c9be4e2.css","style"]
 :HL["/_next/static/media/01e4147cff8141ee-s.p.7787e134.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/db3f01ae0719bbb0-s.p.b64eeed7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"P":null,"b":"tcyUwSWyg0er57z5N0f0J","c":["","blog","top-5-lgbtq-bars-shinjuku-nichome"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","top-5-lgbtq-bars-shinjuku-nichome","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/7ea2a6d55266a9e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/16323b9475b3af72.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"cormorant_garamond_ec0b03bc-module__6ZvGZG__variable inter_fe8b9d92-module__LINzvG__variable pinyon_script_bd953a0d-module__8kg6xa__variable antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/991a4b47d86dd688.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/15e97b84007b5ea5.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/27b3135442311e67.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
-e:I[21752,["/_next/static/chunks/16323b9475b3af72.js","/_next/static/chunks/991a4b47d86dd688.js","/_next/static/chunks/15e97b84007b5ea5.js","/_next/static/chunks/27b3135442311e67.js"],"BlogDetailClient"]
-f:T13d6,Shinjuku Nichome is the heart of Tokyo's LGBTQ+ community, boasting over 300 bars and clubs in just a few blocks. As someone who has spent countless nights exploring this vibrant district, I'm excited to share my top picks for the best LGBTQ+ bars in the area.
+0:{"P":null,"b":"YIp7HHeBFH18O_OlMQQzA","c":["","blog","top-5-lgbtq-bars-shinjuku-nichome"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","top-5-lgbtq-bars-shinjuku-nichome","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/303883fc0c9be4e2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/64fbb7b584cfa55b.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/06ad70a8b78a4b77.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"cormorant_garamond_ec0b03bc-module__6ZvGZG__variable inter_fe8b9d92-module__LINzvG__variable pinyon_script_bd953a0d-module__8kg6xa__variable antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",[["$","script","script-0",{"src":"/_next/static/chunks/3a1c4e95fddab617.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/904ddfb772463d45.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/d604fd8ee136a554.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/4291f2edbce7e217.js","async":true,"nonce":"$undefined"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$@a"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$@c"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true}
+e:I[21752,["/_next/static/chunks/64fbb7b584cfa55b.js","/_next/static/chunks/06ad70a8b78a4b77.js","/_next/static/chunks/3a1c4e95fddab617.js","/_next/static/chunks/904ddfb772463d45.js","/_next/static/chunks/d604fd8ee136a554.js","/_next/static/chunks/4291f2edbce7e217.js"],"BlogDetailClient"]
+f:T1512,Shinjuku Nichome is the heart of Tokyo's LGBTQ+ community, boasting over 300 bars and clubs in just a few blocks. As someone who has spent countless nights exploring this vibrant district, I'm excited to share my top picks for the best LGBTQ+ bars in the area.
+
+## 1. Arty Farty - The Legendary Welcome
 
 First on the list is Arty Farty, a legendary bar that has been welcoming the LGBTQ+ community for over three decades. Located just a short walk from Shinjuku Station, this cozy establishment offers a warm, friendly atmosphere perfect for both newcomers and regulars. The bar features an extensive cocktail menu, with their signature "Arty Farty Special" being a must-try. The staff speaks multiple languages, making it accessible for international visitors. What sets Arty Farty apart is its commitment to creating a safe space where everyone can be themselves without judgment.
 
+## 2. Aiiro Cafe - Modern & Stylish
+
 Next up is Aiiro Cafe, a stylish bar that combines excellent drinks with a welcoming atmosphere. This establishment is particularly popular among the younger LGBTQ+ crowd and allies. The interior design is modern and chic, with rainbow flags proudly displayed. Aiiro Cafe hosts regular events, including drag shows and themed parties, making it a great place to experience Tokyo's LGBTQ+ nightlife culture. Their food menu is also noteworthy, offering delicious bar snacks and light meals that pair perfectly with their creative cocktails.
+
+## 3. Bar Goldfinger - Intimate & Sophisticated
 
 For those looking for a more intimate setting, Bar Goldfinger offers a sophisticated experience. This smaller bar focuses on quality over quantity, with expertly crafted cocktails and a carefully curated selection of spirits. The atmosphere is relaxed and conversation-friendly, making it ideal for dates or catching up with friends. The bar's owner is known for being particularly welcoming to international visitors, often sharing stories about the local LGBTQ+ community and its history.
 
+## 4. Dragon Men - Dance the Night Away
+
 If dancing is more your style, Dragon Men is the place to be. This energetic club features a spacious dance floor, state-of-the-art sound system, and regular DJ performances. The club attracts a diverse crowd and is known for its inclusive atmosphere. Dragon Men hosts themed nights throughout the week, from Latin nights to techno parties, ensuring there's always something exciting happening. The club also has a bar area for those who prefer to socialize while enjoying the music.
+
+## 5. Advocates Cafe - Community Hub
 
 Last but certainly not least is Advocates Cafe, a community-focused bar that serves as both a social space and a resource center for the LGBTQ+ community. This establishment is particularly welcoming to newcomers to Tokyo and offers information about local events, support groups, and resources. The bar hosts regular community events, including language exchange nights and cultural workshops. Advocates Cafe embodies the spirit of Nichome as a place where the LGBTQ+ community can come together, support each other, and celebrate diversity.
 
+## Tips for Visiting Nichome
+
 When visiting these bars, it's important to remember a few key points. First, while Japan is generally safe, it's always wise to be aware of your surroundings, especially late at night. Most bars in Nichome are cash-only, so make sure to bring enough yen. The area is also known for its cover charges, which typically range from 500 to 1,500 yen and often include a drink ticket. Don't be surprised if you're asked to pay a cover charge at the door - this is standard practice in the area.
+
+### Best Times to Visit
 
 The best time to visit Shinjuku Nichome is typically on weekends, when the area comes alive with energy. However, weekdays can offer a more relaxed experience, perfect for those who prefer quieter conversations. Most bars open around 7 or 8 PM and stay open until the early morning hours, with peak times usually between 10 PM and 2 AM.
 
+### Finding Your Perfect Spot
+
 One of the wonderful aspects of Nichome is its diversity. You'll find bars catering to different age groups, interests, and communities within the LGBTQ+ spectrum. Whether you're looking for a quiet drink, a night of dancing, or a place to meet new friends, there's something for everyone in this vibrant district.
+
+## Our Final Thoughts
 
 As someone who has called Tokyo home for many years, I can attest to the welcoming nature of Shinjuku Nichome's LGBTQ+ community. The bars mentioned here are just a starting point - there are countless other wonderful establishments waiting to be discovered. Each bar has its own unique character and community, contributing to the rich tapestry that makes Nichome such a special place.
 
 For visitors planning their first trip to Nichome, I recommend starting with one of the more welcoming bars like Arty Farty or Advocates Cafe. These establishments are particularly friendly to newcomers and can help you get oriented in the area. From there, you can explore other bars based on your interests and the recommendations of the friendly locals you'll meet.
 
-Remember, Shinjuku Nichome is more than just a nightlife district - it's a community, a safe space, and a celebration of diversity. Whether you're a local or a visitor, you're sure to find warmth, acceptance, and unforgettable experiences in this vibrant corner of Tokyo.10:T1872,新宿二丁目は東京のLGBTQ+コミュニティの中心地で、わずか数ブロックに300以上のバーやクラブが集まっています。この活気あるエリアを何度も探索してきた者として、この地域で最高のLGBTQ+バーのおすすめを共有できることを嬉しく思います。
+Remember, Shinjuku Nichome is more than just a nightlife district - it's a community, a safe space, and a celebration of diversity. Whether you're a local or a visitor, you're sure to find warmth, acceptance, and unforgettable experiences in this vibrant corner of Tokyo.10:T19f2,新宿二丁目は東京のLGBTQ+コミュニティの中心地で、わずか数ブロックに300以上のバーやクラブが集まっています。この活気あるエリアを何度も探索してきた者として、この地域で最高のLGBTQ+バーのおすすめを共有できることを嬉しく思います。
+
+## 1. Arty Farty - 伝説的な歓迎の場
 
 リストの最初は、30年以上にわたってLGBTQ+コミュニティを歓迎してきた伝説的なバー、Arty Fartyです。新宿駅から徒歩数分の場所にあるこの居心地の良い店は、新規客にも常連客にも最適な、温かく親しみやすい雰囲気を提供しています。バーには豊富なカクテルメニューがあり、シグネチャーの「Arty Farty Special」は必見です。スタッフは複数の言語を話すため、国際的な訪問者にもアクセスしやすくなっています。Arty Fartyを際立たせているのは、誰もが判断されることなく自分らしくいられる安全な空間を作るというコミットメントです。
 
+## 2. Aiiro Cafe - モダン＆スタイリッシュ
+
 次は、優れたドリンクと歓迎的な雰囲気を組み合わせたスタイリッシュなバー、Aiiro Cafeです。この店は特に若いLGBTQ+層やアライの間で人気があります。インテリアデザインはモダンでシックで、レインボーフラッグが誇らしげに飾られています。Aiiro Cafeは定期的にドラァグショーやテーマパーティーなどのイベントを開催し、東京のLGBTQ+ナイトライフ文化を体験するのに最適な場所です。フードメニューも注目に値し、創造的なカクテルと完璧に合う美味しいバースナックや軽食を提供しています。
+
+## 3. Bar Goldfinger - 親密で洗練された空間
 
 より親密な雰囲気を求める人には、Bar Goldfingerが洗練された体験を提供します。この小さなバーは量より質に焦点を当て、専門的に作られたカクテルと慎重に選ばれたスピリッツのセレクションを提供しています。雰囲気はリラックスしていて会話に適しており、デートや友人との時間に最適です。バーのオーナーは特に国際的な訪問者に歓迎的で、地元のLGBTQ+コミュニティとその歴史についての話を共有することがよくあります。
 
+## 4. Dragon Men - 夜通し踊ろう
+
 ダンスがお好みなら、Dragon Menが最適な場所です。このエネルギッシュなクラブは、広々としたダンスフロア、最新のサウンドシステム、定期的なDJパフォーマンスを特徴としています。クラブは多様な客層を引き付け、包括的な雰囲気で知られています。Dragon Menは週を通じてテーマナイトを開催し、ラテンナイトからテクノパーティーまで、常にエキサイティングな何かが起こっています。クラブには、音楽を楽しみながら社交を好む人のためのバーエリアもあります。
+
+## 5. Advocates Cafe - コミュニティの拠点
 
 最後に、コミュニティ重視のバー、Advocates Cafeがあります。この店は社交スペースとLGBTQ+コミュニティのリソースセンターの両方として機能しています。この店は特に東京に初めて来る人に歓迎的で、地元のイベント、サポートグループ、リソースに関する情報を提供しています。バーは定期的にコミュニティイベントを開催し、言語交換ナイトや文化ワークショップなどが含まれます。Advocates Cafeは、LGBTQ+コミュニティが集まり、お互いをサポートし、多様性を祝う場所としての二丁目の精神を体現しています。
 
+## 二丁目を訪れる際のヒント
+
 これらのバーを訪れる際は、いくつかの重要なポイントを覚えておくことが重要です。まず、日本は一般的に安全ですが、特に深夜は周囲に注意を払うことが常に賢明です。二丁目のほとんどのバーは現金のみなので、十分な円を持参してください。このエリアはカバーチャージでも知られており、通常500円から1,500円で、しばしばドリンクチケットが含まれます。ドアでカバーチャージを請求されても驚かないでください - これはこのエリアでは標準的な慣行です。
+
+### ベストな訪問時間
 
 新宿二丁目を訪れるのに最適な時期は通常週末で、エリアがエネルギーで活気づきます。ただし、平日はよりリラックスした体験を提供でき、静かな会話を好む人に最適です。ほとんどのバーは午後7時または8時頃に開店し、早朝まで営業し、ピークタイムは通常午後10時から午前2時の間です。
 
+### あなたにぴったりの場所を見つける
+
 二丁目の素晴らしい側面の一つは、その多様性です。LGBTQ+スペクトラム内の異なる年齢層、興味、コミュニティに対応するバーを見つけるでしょう。静かな飲み物、ダンスの夜、新しい友人と出会う場所を探しているかどうかにかかわらず、この活気ある地区には誰にとっても何かがあります。
+
+## 最後に
 
 何年も東京を故郷と呼んできた者として、新宿二丁目のLGBTQ+コミュニティの歓迎的な性質を証明できます。ここで言及したバーは出発点に過ぎません - 発見を待っている無数の他の素晴らしい店があります。各バーには独自の特徴とコミュニティがあり、二丁目を特別な場所にしている豊かなタペストリーに貢献しています。
 
@@ -60,5 +96,5 @@ Remember, Shinjuku Nichome is more than just a nightlife district - it's a commu
 覚えておいてください、新宿二丁目は単なるナイトライフ地区ではありません - それはコミュニティ、安全な空間、多様性の祝賀です。地元の人でも訪問者でも、東京のこの活気ある一角で温かさ、受容、忘れられない体験を見つけることでしょう。5:["$","$Le",null,{"post":{"id":"1","slug":"top-5-lgbtq-bars-shinjuku-nichome","title":{"en":"Top 5 LGBTQ+ Bars in Shinjuku Nichome: A Complete Guide","jp":"新宿二丁目のおすすめLGBTQ+バー5選：完全ガイド"},"excerpt":{"en":"Discover the best LGBTQ+ friendly bars in Tokyo's most vibrant district. From cozy cocktail lounges to energetic dance clubs, find your perfect spot in Shinjuku Nichome.","jp":"東京で最も活気あるエリア、新宿二丁目のLGBTQ+フレンドリーなバーを発見しましょう。居心地の良いカクテルラウンジからエネルギッシュなダンスクラブまで、新宿二丁目で完璧な場所を見つけてください。"},"content":{"en":"$f","jp":"$10"},"date":"2023-10-15","image":"/photo/t-a/IMG_9560.JPG","tags":["lgbtq-friendly","nightlife","tokyo","travel-guide","tips"],"author":{"name":{"en":"Taka & Ady","jp":"Taka & Ady"},"role":{"en":"Co-Founders & Guides","jp":"共同創業者 & ガイド"}}}}]
 a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 11:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
-c:[["$","title","0",{"children":"Top 5 LGBTQ+ Bars in Shinjuku Nichome: A Complete Guide | Japan Pride Journeys"}],["$","meta","1",{"name":"description","content":"Discover the best LGBTQ+ friendly bars in Tokyo's most vibrant district. From cozy cocktail lounges to energetic dance clubs, find your perfect spot in Shinjuku Nichome."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L11","3",{}]]
+c:[["$","title","0",{"children":"Top 5 LGBTQ+ Bars in Shinjuku Nichome: A Complete Guide | Japan Pride Journeys"}],["$","meta","1",{"name":"description","content":"Discover the best LGBTQ+ friendly bars in Tokyo's most vibrant district. From cozy cocktail lounges to energetic dance clubs, find your perfect spot in Shinjuku Nichome."}],["$","link","2",{"rel":"icon","href":"/logo.png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/logo.png"}],["$","$L11","4",{}]]
 8:null

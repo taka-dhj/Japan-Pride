@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[21752,["/_next/static/chunks/16323b9475b3af72.js","/_next/static/chunks/991a4b47d86dd688.js","/_next/static/chunks/15e97b84007b5ea5.js","/_next/static/chunks/27b3135442311e67.js"],"BlogDetailClient"]
-9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
-a:"$Sreact.suspense"
+2:I[21752,["/_next/static/chunks/64fbb7b584cfa55b.js","/_next/static/chunks/06ad70a8b78a4b77.js","/_next/static/chunks/3a1c4e95fddab617.js","/_next/static/chunks/904ddfb772463d45.js","/_next/static/chunks/d604fd8ee136a554.js","/_next/static/chunks/4291f2edbce7e217.js"],"BlogDetailClient"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
 3:T1e39,Japanese cuisine is renowned worldwide for its emphasis on fresh ingredients, meticulous preparation, and beautiful presentation. For LGBTQ+ travelers visiting Japan, exploring the country's food culture can be one of the most rewarding aspects of the journey. However, navigating restaurants, understanding dining customs, and feeling comfortable in food establishments can sometimes feel daunting, especially when you're not sure how welcoming these spaces will be.
 
 Having guided countless LGBTQ+ travelers through Japan's culinary landscape, I'm excited to share insights that will help you confidently explore Japanese food culture. From casual izakaya to high-end kaiseki restaurants, this guide will help you understand dining etiquette, find LGBTQ+ friendly establishments, and make the most of your culinary adventures in Japan.
@@ -78,9 +78,10 @@ The key to enjoying Japanese food culture as an LGBTQ+ traveler is to be open, r
 
 日本の食文化を探索することは、単なる食事以上のものであることを覚えておいてください - それは日本の文化を体験し、地元の伝統とつながり、思い出を作ることです。LGBTQ+旅行者として、あなたはこれらの体験に完全に参加し、日本の信じられないほどの食文化を本質的かつ安全に楽しむあらゆる権利を持っています。
 
-LGBTQ+旅行者として日本の食文化を楽しむ鍵は、オープンで、敬意を持ち、好奇心旺盛であることです。日本のレストランは一般的に歓迎的な空間で、すべてのゲストに優れた食べ物とサービスを提供することに焦点を当てています。食事のエチケットの少しの知識と冒険的な精神で、あなたは日本への旅のハイライトの一つになる信じられないほどの料理体験をすることでしょう。0:{"buildId":"tcyUwSWyg0er57z5N0f0J","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"7","slug":"japanese-food-culture-lgbtq-travelers","title":{"en":"Japanese Food Culture: A Guide for LGBTQ+ Travelers","jp":"日本の食文化：LGBTQ+旅行者のためのガイド"},"excerpt":{"en":"Explore Japan's incredible food scene with confidence. From izakaya to fine dining, learn how to navigate Japanese restaurants as an LGBTQ+ traveler.","jp":"自信を持って日本の信じられないほどのフードシーンを探索してください。居酒屋から高級レストランまで、LGBTQ+旅行者として日本のレストランをナビゲートする方法を学びます。"},"content":{"en":"$3","jp":"$4"},"date":"2023-04-12","image":"/photo/t-a/IMG_3705.JPG","tags":["food","culture","travel-guide","tips"],"author":{"name":{"en":"Taka & Ady","jp":"Taka & Ady"},"role":{"en":"Co-Founders & Guides","jp":"共同創業者 & ガイド"}}}}],["$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
-5:["$","script","script-0",{"src":"/_next/static/chunks/991a4b47d86dd688.js","async":true}]
-6:["$","script","script-1",{"src":"/_next/static/chunks/15e97b84007b5ea5.js","async":true}]
-7:["$","script","script-2",{"src":"/_next/static/chunks/27b3135442311e67.js","async":true}]
-8:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
-b:null
+LGBTQ+旅行者として日本の食文化を楽しむ鍵は、オープンで、敬意を持ち、好奇心旺盛であることです。日本のレストランは一般的に歓迎的な空間で、すべてのゲストに優れた食べ物とサービスを提供することに焦点を当てています。食事のエチケットの少しの知識と冒険的な精神で、あなたは日本への旅のハイライトの一つになる信じられないほどの料理体験をすることでしょう。0:{"buildId":"YIp7HHeBFH18O_OlMQQzA","rsc":["$","$1","c",{"children":[["$","$L2",null,{"post":{"id":"7","slug":"japanese-food-culture-lgbtq-travelers","title":{"en":"Japanese Food Culture: A Guide for LGBTQ+ Travelers","jp":"日本の食文化：LGBTQ+旅行者のためのガイド"},"excerpt":{"en":"Explore Japan's incredible food scene with confidence. From izakaya to fine dining, learn how to navigate Japanese restaurants as an LGBTQ+ traveler.","jp":"自信を持って日本の信じられないほどのフードシーンを探索してください。居酒屋から高級レストランまで、LGBTQ+旅行者として日本のレストランをナビゲートする方法を学びます。"},"content":{"en":"$3","jp":"$4"},"date":"2023-04-12","image":"/photo/t-a/IMG_3705.JPG","tags":["food","culture","travel-guide","tips"],"author":{"name":{"en":"Taka & Ady","jp":"Taka & Ady"},"role":{"en":"Co-Founders & Guides","jp":"共同創業者 & ガイド"}}}}],["$L5","$L6","$L7","$L8"],"$L9"]}],"loading":null,"isPartial":false}
+5:["$","script","script-0",{"src":"/_next/static/chunks/3a1c4e95fddab617.js","async":true}]
+6:["$","script","script-1",{"src":"/_next/static/chunks/904ddfb772463d45.js","async":true}]
+7:["$","script","script-2",{"src":"/_next/static/chunks/d604fd8ee136a554.js","async":true}]
+8:["$","script","script-3",{"src":"/_next/static/chunks/4291f2edbce7e217.js","async":true}]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null
