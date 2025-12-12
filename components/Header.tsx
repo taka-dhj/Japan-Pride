@@ -6,9 +6,8 @@ import Image from "next/image";
 import { useLanguage } from "@/context/LanguageContext";
 import { useContactModal } from "@/context/ContactModalContext";
 import { content } from "@/lib/data";
-import { Menu, X, Globe } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
-import { cn } from "@/lib/utils";
 
 export const Header = () => {
     const { language, toggleLanguage } = useLanguage();
@@ -49,16 +48,22 @@ export const Header = () => {
                 backgroundColor: '#ffffff'
             }}
         >
-            <div className="container mx-auto px-6 py-4 flex justify-between items-center min-h-[64px]">
-                <Link href="/" className="flex items-center gap-3 text-2xl font-serif font-bold tracking-wider text-foreground">
+            <div className="container mx-auto px-4 md:px-6 py-3 md:py-4 flex justify-between items-center min-h-[56px] md:min-h-[64px]">
+                <Link href="/" className="flex items-center gap-2 md:gap-3 text-foreground flex-shrink min-w-0">
                     <Image 
                         src="/logo.png" 
                         alt="Japan Pride Journeys Logo" 
-                        width={40} 
-                        height={40} 
-                        className="object-contain"
+                        width={36} 
+                        height={36} 
+                        className="object-contain flex-shrink-0 md:w-10 md:h-10"
                     />
-                    Japan Pride Journeys
+                    {/* Desktop: Full name, Mobile: Short name */}
+                    <span className="hidden sm:block text-xl md:text-2xl font-serif font-bold tracking-wider whitespace-nowrap">
+                        Japan Pride Journeys
+                    </span>
+                    <span className="sm:hidden text-base font-serif font-bold tracking-wider whitespace-nowrap">
+                        JPJ
+                    </span>
                 </Link>
 
                 {/* Desktop Nav */}
@@ -86,20 +91,31 @@ export const Header = () => {
                     ))}
                     <button
                         onClick={toggleLanguage}
-                        className="flex items-center space-x-1 text-sm font-medium text-foreground/80 hover:text-primary transition-colors"
+                        className="flex items-center text-sm font-medium transition-colors"
                     >
-                        <Globe className="w-4 h-4" />
-                        <span>{language === "en" ? "JP" : "EN"}</span>
+                        <span className={language === "en" ? "text-foreground font-semibold" : "text-foreground/50 hover:text-foreground/70"}>EN</span>
+                        <span className="mx-1 text-foreground/30">|</span>
+                        <span className={language === "jp" ? "text-foreground font-semibold" : "text-foreground/50 hover:text-foreground/70"}>JA</span>
                     </button>
                 </nav>
 
-                {/* Mobile Menu Button */}
-                <button
-                    className="md:hidden text-foreground"
-                    onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-                >
-                    {isMobileMenuOpen ? <X /> : <Menu />}
-                </button>
+                {/* Mobile: Language Toggle + Menu Button */}
+                <div className="flex md:hidden items-center gap-3">
+                    <button
+                        onClick={toggleLanguage}
+                        className="flex items-center text-sm font-medium text-foreground/70 hover:text-primary transition-colors"
+                    >
+                        <span className={language === "en" ? "text-foreground font-semibold" : "text-foreground/50"}>EN</span>
+                        <span className="mx-1 text-foreground/30">|</span>
+                        <span className={language === "jp" ? "text-foreground font-semibold" : "text-foreground/50"}>JA</span>
+                    </button>
+                    <button
+                        className="text-foreground p-1"
+                        onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+                    >
+                        {isMobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+                    </button>
+                </div>
             </div>
 
             {/* Mobile Menu */}
@@ -135,16 +151,6 @@ export const Header = () => {
                                     </Link>
                                 )
                             ))}
-                            <button
-                                onClick={() => {
-                                    toggleLanguage();
-                                    setIsMobileMenuOpen(false);
-                                }}
-                                className="flex items-center space-x-2 text-lg font-medium text-foreground hover:text-primary pt-4 border-t"
-                            >
-                                <Globe className="w-5 h-5" />
-                                <span>{language === "en" ? "Switch to Japanese" : "Switch to English"}</span>
-                            </button>
                         </div>
                     </motion.div>
                 )}
