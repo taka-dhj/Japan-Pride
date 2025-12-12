@@ -48,21 +48,20 @@ export const Header = () => {
                 backgroundColor: '#ffffff'
             }}
         >
-            <div className="container mx-auto px-4 md:px-6 py-3 md:py-4 flex justify-between items-center min-h-[56px] md:min-h-[64px]">
-                <Link href="/" className="flex items-center gap-2 md:gap-3 text-foreground flex-shrink min-w-0">
+            <div className="container mx-auto px-6 py-4 flex justify-between items-center min-h-[64px]">
+                <Link href="/" className="flex items-center gap-2 md:gap-3 text-foreground">
                     <Image 
                         src="/logo.png" 
                         alt="Japan Pride Journeys Logo" 
-                        width={36} 
-                        height={36} 
-                        className="object-contain flex-shrink-0 md:w-10 md:h-10"
+                        width={32} 
+                        height={32} 
+                        className="object-contain w-8 h-8 md:w-10 md:h-10 flex-shrink-0"
                     />
-                    {/* Desktop: Full name, Mobile: Short name */}
-                    <span className="hidden sm:block text-xl md:text-2xl font-serif font-bold tracking-wider whitespace-nowrap">
+                    <span 
+                        className="font-serif font-bold tracking-wide"
+                        style={{ fontSize: 'clamp(0.875rem, 3vw, 1.5rem)' }}
+                    >
                         Japan Pride Journeys
-                    </span>
-                    <span className="sm:hidden text-base font-serif font-bold tracking-wider whitespace-nowrap">
-                        JPJ
                     </span>
                 </Link>
 
