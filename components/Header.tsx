@@ -48,18 +48,24 @@ export const Header = () => {
                 backgroundColor: '#ffffff'
             }}
         >
-            <div className="container mx-auto px-6 py-4 flex justify-between items-center min-h-[64px]">
-                <Link href="/" className="flex items-center gap-2 md:gap-3 text-foreground">
+            <div className="container mx-auto px-4 md:px-6 py-3 md:py-4 flex justify-between items-center gap-2 min-h-[60px] md:min-h-[64px]">
+                <Link href="/" className="flex items-center gap-2 md:gap-3 text-foreground min-w-0 flex-1 md:flex-initial">
                     <Image 
                         src="/logo.png" 
                         alt="Japan Pride Journeys Logo" 
-                        width={32} 
-                        height={32} 
-                        className="object-contain w-8 h-8 md:w-10 md:h-10 flex-shrink-0"
+                        width={36} 
+                        height={36} 
+                        className="object-contain w-9 h-9 md:w-10 md:h-10 flex-shrink-0"
                     />
+                    {/* 
+                        フォントサイズ計算:
+                        - iPhone SE (375px): 4.5vw = 16.9px → 1行で収まる
+                        - 320px以下: 最小1rem(16px)で2行表示を許容
+                        - 768px以上: 最大1.5rem(24px)
+                    */}
                     <span 
-                        className="font-serif font-bold tracking-wide"
-                        style={{ fontSize: 'clamp(0.875rem, 3vw, 1.5rem)' }}
+                        className="font-serif font-bold tracking-wide leading-tight"
+                        style={{ fontSize: 'clamp(1rem, 4.5vw, 1.5rem)' }}
                     >
                         Japan Pride Journeys
                     </span>
@@ -99,13 +105,13 @@ export const Header = () => {
                 </nav>
 
                 {/* Mobile: Language Toggle + Menu Button */}
-                <div className="flex md:hidden items-center gap-3">
+                <div className="flex md:hidden items-center gap-2 flex-shrink-0">
                     <button
                         onClick={toggleLanguage}
-                        className="flex items-center text-sm font-medium text-foreground/70 hover:text-primary transition-colors"
+                        className="flex items-center text-xs font-medium text-foreground/70 hover:text-primary transition-colors"
                     >
                         <span className={language === "en" ? "text-foreground font-semibold" : "text-foreground/50"}>EN</span>
-                        <span className="mx-1 text-foreground/30">|</span>
+                        <span className="mx-0.5 text-foreground/30">|</span>
                         <span className={language === "jp" ? "text-foreground font-semibold" : "text-foreground/50"}>JA</span>
                     </button>
                     <button
